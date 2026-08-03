@@ -1,0 +1,41 @@
+project:
+  type: website
+
+website:
+  title: "Matteo Paganelli"
+  site-url: "https://matteo-paganelli.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: teaching.qmd
+        text: Teaching
+      - href: service.qmd
+        text: Academic Service
+      - href: cv.qmd
+        text: CV
+
+    right:
+      - icon: github
+        href: "https://github.com/matteo-paganelli"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/matteo-paganelli-71410a150/"
+      - icon: envelope
+        href: "mailto:matteo.paganelli@unimore.it"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

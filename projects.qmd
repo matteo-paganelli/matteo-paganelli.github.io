@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+## Funded Research Projects
+
+Information about national, regional, and European research projects.
+
+## Applied Research and Consultancy Projects
+
+Information about applied research collaborations with companies and public institutions.

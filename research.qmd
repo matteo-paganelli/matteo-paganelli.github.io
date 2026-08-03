@@ -1,0 +1,21 @@
+---
+title: "Research"
+---
+
+My research activity lies at the intersection of data management and artificial intelligence.
+
+## Data Integration and Matching
+
+Research on entity matching, schema matching, data integration quality, and table discovery.
+
+## Explainable and Trustworthy AI
+
+Research on interpretable entity matching and counterfactual explanations.
+
+## Language Models for Tabular and Document Intelligence
+
+Research on language models for reasoning over complex tables and documents.
+
+## In-DBMS Machine Learning Inference
+
+Research on the execution of machine learning pipelines within relational database systems.

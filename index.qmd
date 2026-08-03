@@ -1,0 +1,17 @@
+---
+title: "Matteo Paganelli"
+subtitle: "Tenure-Track Researcher"
+---
+
+Matteo Paganelli is a tenure-track researcher at the Marco Biagi Department of Economics, University of Modena and Reggio Emilia. He previously conducted postdoctoral research at the Hasso Plattner Institute in Potsdam and received his Ph.D. in Information and Communication Technologies from the University of Modena and Reggio Emilia in 2021.
+
+He holds the Italian National Scientific Qualification for Associate Professor in Information Processing Systems and Informatics.
+
+His research focuses on data management and integration, language and tabular AI, and trustworthy AI, including explainability and fact-checking.
+
+## Research Areas
+
+- Data Integration and Matching
+- Explainable and Trustworthy AI
+- Language Models for Tabular and Document Intelligence
+- In-DBMS Machine Learning Inference

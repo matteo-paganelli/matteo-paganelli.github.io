@@ -91,13 +91,6 @@
     "text": "Industry and Institutional Projects\nResearch contracts and consultancy projects addressing concrete challenges in supply chains, credit risk, manufacturing, retail analytics, and public data management."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "A downloadable version of the complete academic CV will be available here."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -109,7 +102,14 @@
     "href": "index.html",
     "title": "Academic Profile",
     "section": "",
-    "text": "MATTEO PAGANELLI\nTenure-Track Researcher\nData Management · Artificial Intelligence\n\n\nDepartment\n\n“Marco Biagi” Department of Economics\n\nUniversity\n\nUniversity of Modena and Reggio Emilia\n\nResearch group\n\nDTALab\n\nResearch base\n\n“Enzo Ferrari” Department of Engineering\n\nAcademic field\n\nIINF-05/A — Information Processing Systems\n\n\n\nACADEMIC PROFILES\n\n UNIMORE Profile\n ORCID\n Google Scholar\n Scopus\n DBLP\n GitHub\n LinkedIn\n Email\n\n\n\n\nABOUT\n\n\nMatteo Paganelli is a tenure-track researcher at the “Marco Biagi” Department of Economics, University of Modena and Reggio Emilia.\nHe conducts research within DTALab, a research group based at the “Enzo Ferrari” Department of Engineering. He previously carried out postdoctoral research at the Hasso Plattner Institute in Potsdam.\nHe received his Ph.D. in Information and Communication Technologies from the University of Modena and Reggio Emilia and holds the Italian National Scientific Qualification for Associate Professor in Information Processing Systems and Informatics.\nHis research focuses on data management and integration, language and tabular AI, and trustworthy AI, including explainability and fact-checking.\n\n\n\n\n\n\n01\n\n\nIntegration of heterogeneous information at the record, schema, and table levels.\nExplore this area\n\n\n\n02\n\n\nTransparent, interpretable, and actionable machine learning systems.\nExplore this area\n\n\n\n03\n\n\nLanguage models for understanding and reasoning over complex tables and documents.\nExplore this area\n\n\n\n04\n\n\nTranslation and execution of machine learning pipelines within relational databases.\nExplore this area"
+    "text": "MATTEO PAGANELLI\nTenure-Track Researcher\nData Management · Artificial Intelligence\n\n\nDepartment\n\n“Marco Biagi” Department of Economics\n\nUniversity\n\nUniversity of Modena and Reggio Emilia\n\nResearch group\n\nDTALab\n\nResearch base\n\n“Enzo Ferrari” Department of Engineering\n\nAcademic field\n\nIINF-05/A — Information Processing Systems\n\n\n\nACADEMIC PROFILES\n\n UNIMORE Profile\n ORCID\n Google Scholar\n Scopus\n DBLP\n GitHub\n LinkedIn\n Email\n\n\n\n\nABOUT\n\n\nMatteo Paganelli is a tenure-track researcher at the “Marco Biagi” Department of Economics, University of Modena and Reggio Emilia.\nHe conducts research within DTALab, a research group based at the “Enzo Ferrari” Department of Engineering. He previously carried out postdoctoral research at the Hasso Plattner Institute in Potsdam.\nHe received his Ph.D. in Information and Communication Technologies from the University of Modena and Reggio Emilia and holds the Italian National Scientific Qualification for Associate Professor in Information Processing Systems and Informatics.\nHis research focuses on data management and integration, language and tabular AI, and trustworthy AI, including explainability and fact-checking.\n\n\n\n\n\n\n\nCURRICULUM VITAE\n\n\nA complete overview of professional experience, education, research projects, teaching, academic service, and publications.\nUpdated August 2026 · PDF\n\n\n Download CV\n\n\n\n\n\n01\n\n\nIntegration of heterogeneous information at the record, schema, and table levels.\nExplore this area\n\n\n\n02\n\n\nTransparent, interpretable, and actionable machine learning systems.\nExplore this area\n\n\n\n03\n\n\nLanguage models for understanding and reasoning over complex tables and documents.\nExplore this area\n\n\n\n04\n\n\nTranslation and execution of machine learning pipelines within relational databases.\nExplore this area"
+  },
+  {
+    "objectID": "index.html#full-academic-cv",
+    "href": "index.html#full-academic-cv",
+    "title": "Academic Profile",
+    "section": "",
+    "text": "A complete overview of professional experience, education, research projects, teaching, academic service, and publications.\nUpdated August 2026 · PDF"
   },
   {
     "objectID": "index.html#research-focus",

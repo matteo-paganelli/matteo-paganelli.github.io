@@ -1,17 +1,141 @@
 ---
-title: "Matteo Paganelli"
-subtitle: "Tenure-Track Researcher"
+page-layout: full
+toc: false
+description: "Academic website of Matteo Paganelli, researcher in data management, artificial intelligence, and trustworthy AI."
 ---
 
-Matteo Paganelli is a tenure-track researcher at the Marco Biagi Department of Economics, University of Modena and Reggio Emilia. He previously conducted postdoctoral research at the Hasso Plattner Institute in Potsdam and received his Ph.D. in Information and Communication Technologies from the University of Modena and Reggio Emilia in 2021.
+:::::: {.home-profile-grid}
 
-He holds the Italian National Scientific Qualification for Associate Professor in Information Processing Systems and Informatics.
+::::: {.profile-infobox}
 
-His research focuses on data management and integration, language and tabular AI, and trustworthy AI, including explainability and fact-checking.
+![](images/profile.jpg){.profile-photo fig-alt="Portrait of Matteo Paganelli"}
 
-## Research Areas
+[MATTEO PAGANELLI]{.profile-name}
 
-- Data Integration and Matching
-- Explainable and Trustworthy AI
-- Language Models for Tabular and Document Intelligence
-- In-DBMS Machine Learning Inference
+[Tenure-Track Researcher]{.profile-role}
+
+[Data Management · Artificial Intelligence]{.profile-tagline}
+
+:::: {.profile-facts}
+
+**Department**
+: [Marco Biagi Department of Economics](https://www.economia.unimore.it/){target="_blank" rel="noopener"}
+
+**University**
+: [University of Modena and Reggio Emilia](https://www.unimore.it/){target="_blank" rel="noopener"}
+
+**Research group**
+: [DTALab](https://dtalab.unimore.it/){target="_blank" rel="noopener"}
+
+**Research base**
+: [Enzo Ferrari Department of Engineering](https://www.ingmo.unimore.it/){target="_blank" rel="noopener"}
+
+**Academic field**
+: IINF-05/A — Information Processing Systems
+
+::::
+
+[ACADEMIC PROFILES]{.profile-section-title}
+
+:::: {.profile-link-grid}
+
+[<i class="bi bi-building"></i> UNIMORE Profile](https://unimore.unifind.cineca.it/get/person/104872){.profile-link target="_blank" rel="noopener"}
+
+[<i class="bi bi-person-badge"></i> ORCID](https://orcid.org/0000-0001-8119-895X){.profile-link target="_blank" rel="noopener"}
+
+[<i class="bi bi-mortarboard"></i> Google Scholar](https://scholar.google.com/citations?user=KvBM1LQAAAAJ&hl=en){.profile-link target="_blank" rel="noopener"}
+
+[<i class="bi bi-bar-chart"></i> Scopus](https://www.scopus.com/authid/detail.uri?authorId=57196245788){.profile-link target="_blank" rel="noopener"}
+
+[<i class="bi bi-journal-code"></i> DBLP](https://dblp.org/pid/206/0032.html){.profile-link target="_blank" rel="noopener"}
+
+[<i class="bi bi-github"></i> GitHub](https://github.com/matteo-paganelli){.profile-link target="_blank" rel="noopener"}
+
+[<i class="bi bi-linkedin"></i> LinkedIn](https://www.linkedin.com/in/matteo-paganelli-71410a150/){.profile-link target="_blank" rel="noopener"}
+
+[<i class="bi bi-envelope"></i> Email](mailto:matteo.paganelli@unimore.it){.profile-link}
+
+::::
+
+:::::
+
+
+::::: {.home-content}
+
+:::: {.home-intro}
+
+[ABOUT]{.home-eyebrow}
+
+# Academic Profile
+
+Matteo Paganelli is a **tenure-track researcher** at the [Marco Biagi Department of Economics](https://www.economia.unimore.it/){target="_blank" rel="noopener"}, [University of Modena and Reggio Emilia](https://www.unimore.it/){target="_blank" rel="noopener"}.
+
+He conducts research within [**DTALab**](https://dtalab.unimore.it/){target="_blank" rel="noopener"}, a research group based at the [Enzo Ferrari Department of Engineering](https://www.ingmo.unimore.it/){target="_blank" rel="noopener"}. He previously carried out postdoctoral research at the Hasso Plattner Institute in Potsdam.
+
+He received his Ph.D. in Information and Communication Technologies from the University of Modena and Reggio Emilia and holds the **Italian National Scientific Qualification for Associate Professor** in Information Processing Systems and Informatics.
+
+His research focuses on **data management and integration**, **language and tabular AI**, and **trustworthy AI**, including explainability and fact-checking.
+
+::::
+
+
+## Research Focus
+
+::::: {.research-focus-grid}
+
+::: {.research-focus-item}
+
+[01]{.research-focus-number}
+
+### Data Integration and Matching
+
+Integration of heterogeneous information at the record, schema, and table levels.
+
+[Explore this area](research.qmd#data-integration){.research-focus-link}
+
+:::
+
+
+::: {.research-focus-item}
+
+[02]{.research-focus-number}
+
+### Explainable and Trustworthy AI
+
+Transparent, interpretable, and actionable machine learning systems.
+
+[Explore this area](research.qmd#trustworthy-ai){.research-focus-link}
+
+:::
+
+
+::: {.research-focus-item}
+
+[03]{.research-focus-number}
+
+### Tabular and Document AI
+
+Language models for understanding and reasoning over complex tables and documents.
+
+[Explore this area](research.qmd#tabular-document-ai){.research-focus-link}
+
+:::
+
+
+::: {.research-focus-item}
+
+[04]{.research-focus-number}
+
+### In-DBMS ML Inference
+
+Translation and execution of machine learning pipelines within relational databases.
+
+[Explore this area](research.qmd#in-dbms-inference){.research-focus-link}
+
+:::
+
+:::::
+
+:::::
+
+::::::

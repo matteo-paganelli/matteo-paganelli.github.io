@@ -1,21 +1,270 @@
 ---
 title: "Research"
+page-layout: full
+toc: false
 ---
 
-My research activity lies at the intersection of data management and artificial intelligence.
+::: {.research-hero}
 
-## Data Integration and Matching
+<div class="research-eyebrow">RESEARCH PROFILE</div>
 
-Research on entity matching, schema matching, data integration quality, and table discovery.
+My research activity lies at the intersection of **data management** and **artificial intelligence**, with a focus on methods for integrating, understanding, querying, and explaining heterogeneous structured and semi-structured data.
 
-## Explainable and Trustworthy AI
+<div class="research-navigation">
+  <a href="#data-integration">Data Integration</a>
+  <a href="#trustworthy-ai">Trustworthy AI</a>
+  <a href="#tabular-document-ai">Tabular & Document AI</a>
+  <a href="#in-dbms-inference">In-DBMS Inference</a>
+</div>
 
-Research on interpretable entity matching and counterfactual explanations.
+:::
 
-## Language Models for Tabular and Document Intelligence
 
-Research on language models for reasoning over complex tables and documents.
+:::: {.research-card}
 
-## In-DBMS Machine Learning Inference
+::: {.research-visual .visual-integration}
 
-Research on the execution of machine learning pipelines within relational database systems.
+<div class="visual-icon-row" aria-hidden="true">
+  <span class="visual-icon"><i class="bi bi-table"></i></span>
+  <span class="visual-connector"><i class="bi bi-arrow-left-right"></i></span>
+  <span class="visual-icon"><i class="bi bi-diagram-3"></i></span>
+  <span class="visual-connector"><i class="bi bi-arrow-left-right"></i></span>
+  <span class="visual-icon"><i class="bi bi-database"></i></span>
+</div>
+
+<div class="visual-caption">Records · Schemas · Tables</div>
+
+:::
+
+::: {.research-copy}
+
+<div class="research-kicker">01 · DATA SYSTEMS</div>
+
+## Data Integration and Matching {#data-integration}
+
+This research area addresses the integration of heterogeneous data at the **record, schema, and table levels**. It includes the automatic configuration of rule-based Entity Matching systems through [**TuneR**](https://doi.org/10.1145/3357384.3357854), the integration of noisy data sources in real-world settings, and the combination of transformer representations with [**Automated Machine Learning**](https://doi.org/10.5441/002/edbt.2021.29) for entity deduplication. <sup class="pub-ref"><a href="publications.html#c1">c1</a> · <a href="publications.html#c2">c2</a> · <a href="publications.html#c4">c4</a> · <a href="publications.html#c10">c10</a></sup>
+
+A further component concerns the analysis of [**BERT-based Entity Matching models**](https://www.vldb.org/pvldb/vol15/p1726-paganelli.pdf), with particular attention to their behaviour, performance, and sensitivity to data characteristics. <sup class="pub-ref"><a href="publications.html#j3">j3</a> · <a href="publications.html#j6">j6</a> · <a href="publications.html#c20">c20</a></sup>
+
+Additional contributions cover synonymous attribute identification, [**privacy-preserving schema matching**](https://doi.org/10.48786/edbt.2025.24), and unsupervised evaluation of data integration in the absence of ground truth. At the table level, [**Armadillo**](https://doi.org/10.1145/3725365) learns graph-based representations for estimating table overlap and identifying duplicate, related, or evolving tables in large collections. <sup class="pub-ref"><a href="publications.html#c5">c5</a> · <a href="publications.html#c6">c6</a> · <a href="publications.html#c14">c14</a> · <a href="publications.html#c22">c22</a> · <a href="publications.html#j7">j7</a></sup>
+
+<div class="project-links">
+  <a class="project-link" href="https://github.com/softlab-unimore/automl-for-em">
+    <i class="bi bi-github"></i> AutoML for EM
+  </a>
+  <a class="project-link" href="https://github.com/softlab-unimore/bert-attention-for-em">
+    <i class="bi bi-github"></i> BERT Analysis
+  </a>
+  <a class="project-link" href="https://github.com/HPI-Information-Systems/prisma">
+    <i class="bi bi-github"></i> PRISMA
+  </a>
+</div>
+
+:::
+
+::::
+
+
+:::: {.research-card .research-card--reverse}
+
+::: {.research-copy}
+
+<div class="research-kicker">02 · TRANSPARENT DECISIONS</div>
+
+## Explainable and Trustworthy AI {#trustworthy-ai}
+
+This research area focuses on the **transparency, interpretability, and actionability** of machine learning systems. A substantial part of the work concerns Entity Matching models, for which explanations identify the attributes, words, or combinations of terms that influence matching decisions.
+
+The proposed approaches include post-hoc explanations based on input perturbations through [**Landmark**](https://doi.org/10.1145/3459637.3481981), intrinsically interpretable architectures such as [**WYM**](https://doi.org/10.48786/edbt.2023.54), and [**CREW**](https://doi.org/10.1109/ICDE60146.2024.00184), which organizes influential terms into compact and understandable clusters. These contributions investigate the relationship between **explanation fidelity**, interpretability, and usability. <sup class="pub-ref"><a href="publications.html#c9">c9</a> · <a href="publications.html#c11">c11</a> · <a href="publications.html#c13">c13</a> · <a href="publications.html#c15">c15</a> · <a href="publications.html#c17">c17</a> · <a href="publications.html#c19">c19</a> · <a href="publications.html#c24">c24</a></sup>
+
+The same research direction extends to decision-support systems in other domains. **CREDIX** studies expert-guided counterfactual explanations for credit-risk models, with the objective of producing realistic and actionable alternatives. Privacy-aware integration and transparent analysis of corporate information provide further connections with **trustworthy data-centric AI**. <sup class="pub-ref"><a href="publications.html#c22">c22</a> · <a href="publications.html#c25">c25</a></sup>
+
+<div class="project-links">
+  <a class="project-link" href="https://github.com/softlab-unimore/landmark">
+    <i class="bi bi-github"></i> Landmark
+  </a>
+  <a class="project-link" href="https://github.com/softlab-unimore/wym">
+    <i class="bi bi-github"></i> WYM
+  </a>
+  <a class="project-link" href="https://github.com/softlab-unimore/crew">
+    <i class="bi bi-github"></i> CREW
+  </a>
+</div>
+
+:::
+
+::: {.research-visual .visual-explanation}
+
+<div class="visual-icon-row" aria-hidden="true">
+  <span class="visual-icon"><i class="bi bi-cpu"></i></span>
+  <span class="visual-connector"><i class="bi bi-arrow-right"></i></span>
+  <span class="visual-icon"><i class="bi bi-eye"></i></span>
+  <span class="visual-connector"><i class="bi bi-arrow-right"></i></span>
+  <span class="visual-icon"><i class="bi bi-lightbulb"></i></span>
+</div>
+
+<div class="visual-caption">Models · Evidence · Recourse</div>
+
+:::
+
+::::
+
+
+:::: {.research-card}
+
+::: {.research-visual .visual-language}
+
+<div class="visual-icon-row" aria-hidden="true">
+  <span class="visual-icon"><i class="bi bi-file-earmark-text"></i></span>
+  <span class="visual-connector"><i class="bi bi-plus-lg"></i></span>
+  <span class="visual-icon"><i class="bi bi-table"></i></span>
+  <span class="visual-connector"><i class="bi bi-arrow-right"></i></span>
+  <span class="visual-icon"><i class="bi bi-chat-square-text"></i></span>
+</div>
+
+<div class="visual-caption">Documents · Tables · Reasoning</div>
+
+:::
+
+::: {.research-copy}
+
+<div class="research-kicker">03 · LANGUAGE & STRUCTURED DATA</div>
+
+## Language Models for Tabular and Document Intelligence {#tabular-document-ai}
+
+This research area investigates the use of language models for **understanding, querying, and reasoning** over structured and semi-structured information.
+
+[**GRI-QA**](https://aclanthology.org/2025.findings-acl.814/) provides a benchmark for question answering over complex environmental tables extracted from corporate sustainability reports. It covers numerical reasoning, heterogeneous table structures, and questions requiring the combination of information distributed across multiple tables and documents. <sup class="pub-ref"><a href="publications.html#c23">c23</a></sup>
+
+[**CLARIESG**](https://aclanthology.org/2026.eacl-demo.7/) is an end-to-end framework for analysing ESG information in corporate reports. It combines table extraction, structured prompting, unit normalization, table selection, and program-based reasoning to support **transparent and verifiable analyses** of sustainability indicators and potential ESG-washing practices. <sup class="pub-ref"><a href="publications.html#c25">c25</a></sup>
+
+Related work addresses natural language understanding and educational applications, including [**argument-relation classification**](https://aclanthology.org/2024.emnlp-main.1054/) through discourse information and adversarial training, and [**CLAIRE**](https://doi.org/10.1007/978-3-032-29755-6_4), a controllable multi-agent framework for guided reading comprehension. <sup class="pub-ref"><a href="publications.html#c21">c21</a> · <a href="publications.html#c26">c26</a></sup>
+
+<div class="project-links">
+  <a class="project-link" href="https://github.com/softlab-unimore/gri_qa">
+    <i class="bi bi-github"></i> GRI-QA
+  </a>
+  <a class="project-link" href="https://github.com/softlab-unimore/ClariESG">
+    <i class="bi bi-github"></i> CLARIESG
+  </a>
+  <a class="project-link" href="https://github.com/softlab-unimore/disarm">
+    <i class="bi bi-github"></i> DISARM
+  </a>
+  <a class="project-link" href="https://github.com/softlab-unimore/Claire">
+    <i class="bi bi-github"></i> CLAIRE
+  </a>
+</div>
+
+:::
+
+::::
+
+
+:::: {.research-card .research-card--reverse}
+
+::: {.research-copy}
+
+<div class="research-kicker">04 · DATA-SIDE DEPLOYMENT</div>
+
+## In-DBMS Machine Learning Inference {#in-dbms-inference}
+
+This research area studies the execution of machine learning pipelines directly within **relational database management systems**. The objective is to reduce data movement and simplify deployment by translating preprocessing operations and predictive models into SQL.
+
+[**MASQ**](https://doi.org/10.1109/TKDE.2023.3269592) transforms machine learning pipelines into standard SQL queries, allowing inference to be executed where the data reside. The corresponding evaluation analyses relational databases as prediction-serving platforms, considering **execution efficiency**, deployment complexity, and compatibility with different models and preprocessing operations. <sup class="pub-ref"><a href="publications.html#c7">c7</a> · <a href="publications.html#j5">j5</a> · <a href="publications.html#c18">c18</a></sup>
+
+<div class="project-links">
+  <a class="project-link" href="https://github.com/softlab-unimore/MASQ">
+    <i class="bi bi-github"></i> MASQ
+  </a>
+</div>
+
+:::
+
+::: {.research-visual .visual-dbms}
+
+<div class="visual-icon-row" aria-hidden="true">
+  <span class="visual-icon"><i class="bi bi-cpu"></i></span>
+  <span class="visual-connector"><i class="bi bi-arrow-right"></i></span>
+  <span class="visual-icon"><i class="bi bi-code-square"></i></span>
+  <span class="visual-connector"><i class="bi bi-arrow-right"></i></span>
+  <span class="visual-icon"><i class="bi bi-database-check"></i></span>
+</div>
+
+<div class="visual-caption">Models · SQL · DBMS</div>
+
+:::
+
+::::
+
+
+::: {.additional-research}
+
+<div class="research-kicker">ADDITIONAL DIRECTIONS</div>
+
+## Additional Research Contributions
+
+::::: {.research-mini-grid}
+
+::: {.research-mini-card}
+
+::: {.research-mini-icon}
+<i class="bi bi-search" aria-hidden="true"></i>
+:::
+
+### Data Exploration
+
+Interactive exploration and automatic description of large datasets.
+
+[*c3*](publications.qmd#c3){.mini-ref} ·
+[*c8*](publications.qmd#c8){.mini-ref} ·
+[*j2*](publications.qmd#j2){.mini-ref}
+
+:::
+
+::: {.research-mini-card}
+
+::: {.research-mini-icon}
+<i class="bi bi-activity" aria-hidden="true"></i>
+:::
+
+### Anomaly Detection
+
+Novelty and anomaly detection in industrial and network environments.
+
+[*c12*](publications.qmd#c12){.mini-ref} ·
+[*j4*](publications.qmd#j4){.mini-ref} ·
+[*j8*](publications.qmd#j8){.mini-ref}
+
+:::
+
+::: {.research-mini-card}
+
+::: {.research-mini-icon}
+<i class="bi bi-graph-up-arrow" aria-hidden="true"></i>
+:::
+
+### Financial Machine Learning
+
+Machine learning methods and evaluation challenges in financial applications.
+
+[*c16*](publications.qmd#c16){.mini-ref}
+
+:::
+
+::: {.research-mini-card}
+
+::: {.research-mini-icon}
+<i class="bi bi-diagram-2" aria-hidden="true"></i>
+:::
+
+### Parallel Data Integration
+
+Parallel algorithms for relational integration and full-disjunction computation.
+
+[*j1*](publications.qmd#j1){.mini-ref}
+
+:::
+
+:::::
+
+:::

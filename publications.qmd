@@ -1,5 +1,594 @@
 ---
 title: "Publications"
+page-layout: full
+toc: false
 ---
 
-The complete publication list will be added to this page.
+::: {.publications-hero}
+
+<div class="research-eyebrow">PUBLICATION RECORD</div>
+
+The publication list is organized chronologically. Each entry provides links to the paper and, when available, to the corresponding source code or research artifact.
+
+<div class="publication-year-nav">
+<a href="#y2026">2026</a>
+<a href="#y2025">2025</a>
+<a href="#y2024">2024</a>
+<a href="#y2023">2023</a>
+<a href="#y2022">2022</a>
+<a href="#y2021">2021</a>
+<a href="#y2020">2020</a>
+<a href="#y2019">2019</a>
+<a href="#y2017">2017</a>
+</div>
+
+:::: {.publication-legend aria-label="Publication type legend"}
+
+::::: {.publication-legend-item}
+
+[c\*]{.publication-legend-badge .publication-legend-badge--conference}
+[Conference paper]{.publication-legend-label}
+
+:::::
+
+::::: {.publication-legend-item}
+
+[j\*]{.publication-legend-badge .publication-legend-badge--journal}
+[Journal article]{.publication-legend-label}
+
+:::::
+
+::::
+
+:::
+
+
+## 2026 {#y2026}
+
+::: {#c26 .publication-card}
+
+<span class="publication-id">c26</span>
+
+### CLAIRE: A Controllable LLM Tutoring Framework for Reading Comprehension
+
+[Chiara Magurno, Michele Luca Contalbo, **Matteo Paganelli**, Enrico Giliberti, Chiara Bertolini, Francesco Guerra]{.publication-authors}
+
+[***AIED 2026***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1007/978-3-032-29755-6_4){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/Claire){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c25 .publication-card}
+
+<span class="publication-id">c25</span>
+
+### CLARIESG: An End-to-End System for ESG Analysis over Complex Tables in Corporate Reports
+
+[Marta Santacroce, Michele Luca Contalbo, Sara Pederzoli, Riccardo Benassi, Valeria Venturelli, **Matteo Paganelli**, Francesco Guerra]{.publication-authors}
+
+[***EACL 2026***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://aclanthology.org/2026.eacl-demo.7/){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/ClariESG){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+## 2025 {#y2025}
+
+::: {#j8 .publication-card}
+
+<span class="publication-id publication-id--journal">j8</span>
+
+### NOCTOWL: Adaptive Tree-Based Model for Network Anomaly Detection Under Delayed and Sampled Label Availability
+
+[Sara Pederzoli, **Matteo Paganelli**, Michele Luca Contalbo, Riccardo Benassi, Donato Tiano, Stefano Iannucci, Francesco Guerra]{.publication-authors}
+
+[***IEEE Access***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1109/ACCESS.2025.3633419){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/NOCTOWL){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#j7 .publication-card}
+
+<span class="publication-id publication-id--journal">j7</span>
+
+### Table Overlap Estimation through Graph Embeddings
+
+[Francesco Pugnaloni, Luca Zecchini, **Matteo Paganelli**, Matteo Lissandrini, Felix Naumann, Giovanni Simonini]{.publication-authors}
+
+[***Proceedings of the ACM on Management of Data***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1145/3725365){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c24 .publication-card}
+
+<span class="publication-id">c24</span>
+
+### Explaining Entity Matching Models with CREW
+
+[Riccardo Benassi, Michele Luca Contalbo, Francesco Del Buono, Francesco Guerra, Giacomo Guiduzzi, **Matteo Paganelli**, Sara Pederzoli, Donato Tiano, Maurizio Vincini]{.publication-authors}
+
+[***SEBD 2025***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://ceur-ws.org/Vol-4182/paper20.pdf){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/crew){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c23 .publication-card}
+
+<span class="publication-id">c23</span>
+
+### GRI-QA: A Comprehensive Benchmark for Table Question Answering over Environmental Data
+
+[Michele Luca Contalbo, Sara Pederzoli, Francesco Del Buono, Valeria Venturelli, Francesco Guerra, **Matteo Paganelli**]{.publication-authors}
+
+[***Findings of ACL 2025***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://aclanthology.org/2025.findings-acl.814/){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/gri_qa){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c22 .publication-card}
+
+<span class="publication-id">c22</span>
+
+### PRISMA: A Privacy-Preserving Schema Matcher Using Functional Dependencies
+
+[Jan-Eric Hellenberg, Fabian Mahling, Lukas Laskowski, Felix Naumann, **Matteo Paganelli**, Fabian Panse]{.publication-authors}
+
+[***EDBT 2025***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.48786/edbt.2025.24){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/HPI-Information-Systems/prisma){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+## 2024 {#y2024}
+
+::: {#j6 .publication-card}
+
+<span class="publication-id publication-id--journal">j6</span>
+
+### A Multi-Facet Analysis of BERT-Based Entity Matching Models
+
+[**Matteo Paganelli**, Donato Tiano, Francesco Guerra]{.publication-authors}
+
+[***The VLDB Journal***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1007/s00778-023-00824-x){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/bert-attention-for-em){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c21 .publication-card}
+
+<span class="publication-id">c21</span>
+
+### Argument Relation Classification through Discourse Markers and Adversarial Training
+
+[Michele Contalbo, Francesco Guerra, **Matteo Paganelli**]{.publication-authors}
+
+[***EMNLP 2024***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://aclanthology.org/2024.emnlp-main.1054/){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/disarm){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c20 .publication-card}
+
+<span class="publication-id">c20</span>
+
+### How Transformers Are Revolutionizing Entity Matching
+
+[**Matteo Paganelli**, Donato Tiano, Francesco Del Buono, Andrea Baraldi, Riccardo Benassi, Giacomo Guiduzzi, Francesco Guerra]{.publication-authors}
+
+[***SEBD 2024***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://ceur-ws.org/Vol-3741/paper55.pdf){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/bert-attention-for-em){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c19 .publication-card}
+
+<span class="publication-id">c19</span>
+
+### Explaining Entity Matching with Clusters of Words
+
+[Riccardo Benassi, Francesco Guerra, **Matteo Paganelli**, Donato Tiano]{.publication-authors}
+
+[***ICDE 2024***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1109/ICDE60146.2024.00184){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/crew){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c18 .publication-card}
+
+<span class="publication-id">c18</span>
+
+### Pushing ML Predictions into DBMSs (Extended Abstract)
+
+[**Matteo Paganelli**, Paolo Sottovia, Kwanghyun Park, Matteo Interlandi, Francesco Guerra]{.publication-authors}
+
+[***ICDE 2024***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1109/ICDE60146.2024.00494){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/MASQ){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+## 2023 {#y2023}
+
+::: {#j5 .publication-card}
+
+<span class="publication-id publication-id--journal">j5</span>
+
+### Pushing ML Predictions into DBMSs
+
+[**Matteo Paganelli**, Paolo Sottovia, Kwanghyun Park, Matteo Interlandi, Francesco Guerra]{.publication-authors}
+
+[***IEEE Transactions on Knowledge and Data Engineering***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1109/TKDE.2023.3269592){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/MASQ){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c17 .publication-card}
+
+<span class="publication-id">c17</span>
+
+### An Intrinsically Interpretable Entity Matching System
+
+[Andrea Baraldi, Francesco Del Buono, Francesco Guerra, **Matteo Paganelli**, Maurizio Vincini]{.publication-authors}
+
+[***EDBT 2023***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.48786/edbt.2023.54){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/wym){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c16 .publication-card}
+
+<span class="publication-id">c16</span>
+
+### Avoiding the Pitfalls on Stock Market: Challenges and Solutions in Developing Quantitative Strategies
+
+[Marco Bergianti, Nicola Cioffo, Francesco Del Buono, **Matteo Paganelli**, Angelo Porrello]{.publication-authors}
+
+[***Ital-IA 2023***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://ceur-ws.org/Vol-3486/67.pdf){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c15 .publication-card}
+
+<span class="publication-id">c15</span>
+
+### Interpretable Entity Matching with WYM
+
+[Andrea Baraldi, Francesco Del Buono, Francesco Guerra, Giacomo Guiduzzi, **Matteo Paganelli**, Maurizio Vincini]{.publication-authors}
+
+[***SEBD 2023***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://ceur-ws.org/Vol-3478/paper33.pdf){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/wym){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+## 2022 {#y2022}
+
+::: {#j4 .publication-card}
+
+<span class="publication-id publication-id--journal">j4</span>
+
+### Novelty Detection with Autoencoders for System Health Monitoring in Industrial Environments
+
+[Francesco Del Buono, Francesca Calabrese, Andrea Baraldi, **Matteo Paganelli**, Francesco Guerra]{.publication-authors}
+
+[***Applied Sciences***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.3390/app12104931){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/AE4ND){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#j3 .publication-card}
+
+<span class="publication-id publication-id--journal">j3</span>
+
+### Analyzing How BERT Performs Entity Matching
+
+[**Matteo Paganelli**, Francesco Del Buono, Andrea Baraldi, Francesco Guerra]{.publication-authors}
+
+[***Proceedings of the VLDB Endowment***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://www.vldb.org/pvldb/vol15/p1726-paganelli.pdf){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/bert-attention-for-em){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c14 .publication-card}
+
+<span class="publication-id">c14</span>
+
+### Evaluating the Integration of Datasets
+
+[**Matteo Paganelli**, Francesco Del Buono, Francesco Guerra, Nicola Ferro]{.publication-authors}
+
+[***SAC 2022***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1145/3477314.3507688){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/UEDI){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c13 .publication-card}
+
+<span class="publication-id">c13</span>
+
+### Landmark Explanation: A Tool for Entity Matching
+
+[Andrea Baraldi, Francesco Del Buono, **Matteo Paganelli**, Francesco Guerra]{.publication-authors}
+
+[***SEBD 2022***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://ceur-ws.org/Vol-3194/paper8.pdf){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/landmark){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c12 .publication-card}
+
+<span class="publication-id">c12</span>
+
+### Data-Driven Predictive Maintenance in Evolving Environments: A Comparison Between Machine Learning and Deep Learning for Novelty Detection
+
+[Francesco Del Buono, Francesca Calabrese, Andrea Baraldi, **Matteo Paganelli**, Alberto Regattieri]{.publication-authors}
+
+[***Sustainable Design and Manufacturing*, Smart Innovation, Systems and Technologies**]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1007/978-981-16-6128-0_11){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+## 2021 {#y2021}
+
+::: {#c11 .publication-card}
+
+<span class="publication-id">c11</span>
+
+### Landmark Explanation: An Explainer for Entity Matching Models
+
+[Andrea Baraldi, Francesco Del Buono, **Matteo Paganelli**, Francesco Guerra]{.publication-authors}
+
+[***CIKM 2021***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1145/3459637.3481981){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/landmark){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c10 .publication-card}
+
+<span class="publication-id">c10</span>
+
+### Automated Machine Learning for Entity Matching Tasks
+
+[**Matteo Paganelli**, Francesco Del Buono, Marco Pevarello, Francesco Guerra, Maurizio Vincini]{.publication-authors}
+
+[***EDBT 2021***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.5441/002/edbt.2021.29){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/automl-for-em){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c9 .publication-card}
+
+<span class="publication-id">c9</span>
+
+### Using Landmarks for Explaining Entity Matching Models
+
+[Andrea Baraldi, Francesco Del Buono, **Matteo Paganelli**, Francesco Guerra]{.publication-authors}
+
+[***EDBT 2021***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.5441/002/edbt.2021.50){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/landmark){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c8 .publication-card}
+
+<span class="publication-id">c8</span>
+
+### Using Descriptions for Explaining Entity Matches
+
+[**Matteo Paganelli**, Paolo Sottovia, Antonio Maccioni, Matteo Interlandi, Francesco Guerra]{.publication-authors}
+
+[***SEBD 2021***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://ceur-ws.org/Vol-2994/paper31.pdf){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c7 .publication-card}
+
+<span class="publication-id">c7</span>
+
+### Transforming ML Predictive Pipelines into SQL with MASQ
+
+[Francesco Del Buono, **Matteo Paganelli**, Paolo Sottovia, Matteo Interlandi, Francesco Guerra]{.publication-authors}
+
+[***SIGMOD 2021***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1145/3448016.3452771){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/MASQ){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+## 2020 {#y2020}
+
+::: {#j2 .publication-card}
+
+<span class="publication-id publication-id--journal">j2</span>
+
+### Explaining Data with Descriptions
+
+[**Matteo Paganelli**, Paolo Sottovia, Antonio Maccioni, Matteo Interlandi, Francesco Guerra]{.publication-authors}
+
+[***Information Systems***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1016/j.is.2020.101549){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c6 .publication-card}
+
+<span class="publication-id">c6</span>
+
+### Unsupervised Evaluation of Data Integration Processes
+
+[**Matteo Paganelli**, Francesco Del Buono, Francesco Guerra, Nicola Ferro]{.publication-authors}
+
+[***iiWAS 2020***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1145/3428757.3429129){.pub-action target="_blank" rel="noopener"}
+[<i class="bi bi-github"></i> Code](https://github.com/softlab-unimore/UEDI){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+## 2019 {#y2019}
+
+::: {#j1 .publication-card}
+
+<span class="publication-id publication-id--journal">j1</span>
+
+### Parallelizing Computations of Full Disjunctions
+
+[**Matteo Paganelli**, Domenico Beneventano, Francesco Guerra, Paolo Sottovia]{.publication-authors}
+
+[***Big Data Research***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1016/j.bdr.2019.07.002){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c5 .publication-card}
+
+<span class="publication-id">c5</span>
+
+### Finding Synonymous Attributes in Evolving Wikipedia Infoboxes
+
+[Paolo Sottovia, **Matteo Paganelli**, Francesco Guerra, Yannis Velegrakis]{.publication-authors}
+
+[***ADBIS 2019***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1007/978-3-030-28730-6_11){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c4 .publication-card}
+
+<span class="publication-id">c4</span>
+
+### Big Data Integration of Heterogeneous Data Sources: The Re-Search Alps Case Study
+
+[Francesco Guerra, Paolo Sottovia, **Matteo Paganelli**, Maurizio Vincini]{.publication-authors}
+
+[***IEEE Big Data Congress 2019***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1109/BigDataCongress.2019.00027){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c3 .publication-card}
+
+<span class="publication-id">c3</span>
+
+### Understanding Data in the Blink of an Eye
+
+[**Matteo Paganelli**, Paolo Sottovia, Antonio Maccioni, Matteo Interlandi, Francesco Guerra]{.publication-authors}
+
+[***CIKM 2019***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1145/3357384.3357849){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+::: {#c2 .publication-card}
+
+<span class="publication-id">c2</span>
+
+### TuneR: Fine Tuning of Rule-Based Entity Matchers
+
+[**Matteo Paganelli**, Paolo Sottovia, Francesco Guerra, Yannis Velegrakis]{.publication-authors}
+
+[***CIKM 2019***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1145/3357384.3357854){.pub-action target="_blank" rel="noopener"}
+
+:::
+
+
+## 2017 {#y2017}
+
+::: {#c1 .publication-card}
+
+<span class="publication-id">c1</span>
+
+### The RE-SEARCH ALPS (Research Laboratories in the Alpine Area) Project
+
+[Francesco Guerra, Margherita Russo, Marco Fontana, **Matteo Paganelli**, François Bancilhon, Christian Frisch, Loïc Petit, Anna Giorgi, Emanuela Zilio]{.publication-authors}
+
+[***HPCS 2017***]{.publication-venue}
+
+[<i class="bi bi-file-earmark-text"></i> Paper](https://doi.org/10.1109/HPCS.2017.20){.pub-action target="_blank" rel="noopener"}
+
+:::

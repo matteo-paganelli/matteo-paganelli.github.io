@@ -4,6 +4,8 @@ project:
 website:
   title: "Matteo Paganelli"
   site-url: "https://matteo-paganelli.github.io"
+  favicon: images/favicon.svg
+  search: true
   navbar:
     left:
       - href: index.qmd

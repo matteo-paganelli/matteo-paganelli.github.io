@@ -36,6 +36,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./images/favicon.svg" rel="icon" type="image/svg+xml">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -148,23 +149,12 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#data-integration-and-matching" id="toc-data-integration-and-matching" class="nav-link active" data-scroll-target="#data-integration-and-matching">Data Integration and Matching</a></li>
-  <li><a href="#explainable-and-trustworthy-ai" id="toc-explainable-and-trustworthy-ai" class="nav-link" data-scroll-target="#explainable-and-trustworthy-ai">Explainable and Trustworthy AI</a></li>
-  <li><a href="#language-models-for-tabular-and-document-intelligence" id="toc-language-models-for-tabular-and-document-intelligence" class="nav-link" data-scroll-target="#language-models-for-tabular-and-document-intelligence">Language Models for Tabular and Document Intelligence</a></li>
-  <li><a href="#in-dbms-machine-learning-inference" id="toc-in-dbms-machine-learning-inference" class="nav-link" data-scroll-target="#in-dbms-machine-learning-inference">In-DBMS Machine Learning Inference</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -173,7 +163,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -185,25 +175,163 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>My research activity lies at the intersection of data management and artificial intelligence.</p>
-<section id="data-integration-and-matching" class="level2">
-<h2 class="anchored" data-anchor-id="data-integration-and-matching">Data Integration and Matching</h2>
-<p>Research on entity matching, schema matching, data integration quality, and table discovery.</p>
+<div class="research-hero">
+<div class="research-eyebrow">
+RESEARCH PROFILE
+</div>
+<p>My research activity lies at the intersection of <strong>data management</strong> and <strong>artificial intelligence</strong>, with a focus on methods for integrating, understanding, querying, and explaining heterogeneous structured and semi-structured data.</p>
+<div class="research-navigation">
+<p><a href="#data-integration">Data Integration</a> <a href="#trustworthy-ai">Trustworthy AI</a> <a href="#tabular-document-ai">Tabular &amp; Document AI</a> <a href="#in-dbms-inference">In-DBMS Inference</a></p>
+</div>
+</div>
+<div class="research-card">
+<div class="research-visual visual-integration">
+<div class="visual-icon-row" aria-hidden="true">
+<p><span class="visual-icon"><i class="bi bi-table"></i></span> <span class="visual-connector"><i class="bi bi-arrow-left-right"></i></span> <span class="visual-icon"><i class="bi bi-diagram-3"></i></span> <span class="visual-connector"><i class="bi bi-arrow-left-right"></i></span> <span class="visual-icon"><i class="bi bi-database"></i></span></p>
+</div>
+<div class="visual-caption">
+Records · Schemas · Tables
+</div>
+</div>
+<div class="research-copy">
+<div class="research-kicker">
+01 · DATA SYSTEMS
+</div>
+<section id="data-integration" class="level2">
+<h2 class="anchored" data-anchor-id="data-integration">Data Integration and Matching</h2>
+<p>This research area addresses the integration of heterogeneous data at the <strong>record, schema, and table levels</strong>. It includes the automatic configuration of rule-based Entity Matching systems through <a href="https://doi.org/10.1145/3357384.3357854"><strong>TuneR</strong></a>, the integration of noisy data sources in real-world settings, and the combination of transformer representations with <a href="https://doi.org/10.5441/002/edbt.2021.29"><strong>Automated Machine Learning</strong></a> for entity deduplication. <sup class="pub-ref"><a href="publications.html#c1">c1</a> · <a href="publications.html#c2">c2</a> · <a href="publications.html#c4">c4</a> · <a href="publications.html#c10">c10</a></sup></p>
+<p>A further component concerns the analysis of <a href="https://www.vldb.org/pvldb/vol15/p1726-paganelli.pdf"><strong>BERT-based Entity Matching models</strong></a>, with particular attention to their behaviour, performance, and sensitivity to data characteristics. <sup class="pub-ref"><a href="publications.html#j3">j3</a> · <a href="publications.html#j6">j6</a> · <a href="publications.html#c20">c20</a></sup></p>
+<p>Additional contributions cover synonymous attribute identification, <a href="https://doi.org/10.48786/edbt.2025.24"><strong>privacy-preserving schema matching</strong></a>, and unsupervised evaluation of data integration in the absence of ground truth. At the table level, <a href="https://doi.org/10.1145/3725365"><strong>Armadillo</strong></a> learns graph-based representations for estimating table overlap and identifying duplicate, related, or evolving tables in large collections. <sup class="pub-ref"><a href="publications.html#c5">c5</a> · <a href="publications.html#c6">c6</a> · <a href="publications.html#c14">c14</a> · <a href="publications.html#c22">c22</a> · <a href="publications.html#j7">j7</a></sup></p>
+<div class="project-links">
+<p><a class="project-link" href="https://github.com/softlab-unimore/automl-for-em"> <i class="bi bi-github"></i> AutoML for EM </a> <a class="project-link" href="https://github.com/softlab-unimore/bert-attention-for-em"> <i class="bi bi-github"></i> BERT Analysis </a> <a class="project-link" href="https://github.com/HPI-Information-Systems/prisma"> <i class="bi bi-github"></i> PRISMA </a></p>
+</div>
 </section>
-<section id="explainable-and-trustworthy-ai" class="level2">
-<h2 class="anchored" data-anchor-id="explainable-and-trustworthy-ai">Explainable and Trustworthy AI</h2>
-<p>Research on interpretable entity matching and counterfactual explanations.</p>
+</div>
+</div>
+<div class="research-card research-card--reverse">
+<div class="research-copy">
+<div class="research-kicker">
+02 · TRANSPARENT DECISIONS
+</div>
+<section id="trustworthy-ai" class="level2">
+<h2 class="anchored" data-anchor-id="trustworthy-ai">Explainable and Trustworthy AI</h2>
+<p>This research area focuses on the <strong>transparency, interpretability, and actionability</strong> of machine learning systems. A substantial part of the work concerns Entity Matching models, for which explanations identify the attributes, words, or combinations of terms that influence matching decisions.</p>
+<p>The proposed approaches include post-hoc explanations based on input perturbations through <a href="https://doi.org/10.1145/3459637.3481981"><strong>Landmark</strong></a>, intrinsically interpretable architectures such as <a href="https://doi.org/10.48786/edbt.2023.54"><strong>WYM</strong></a>, and <a href="https://doi.org/10.1109/ICDE60146.2024.00184"><strong>CREW</strong></a>, which organizes influential terms into compact and understandable clusters. These contributions investigate the relationship between <strong>explanation fidelity</strong>, interpretability, and usability. <sup class="pub-ref"><a href="publications.html#c9">c9</a> · <a href="publications.html#c11">c11</a> · <a href="publications.html#c13">c13</a> · <a href="publications.html#c15">c15</a> · <a href="publications.html#c17">c17</a> · <a href="publications.html#c19">c19</a> · <a href="publications.html#c24">c24</a></sup></p>
+<p>The same research direction extends to decision-support systems in other domains. <strong>CREDIX</strong> studies expert-guided counterfactual explanations for credit-risk models, with the objective of producing realistic and actionable alternatives. Privacy-aware integration and transparent analysis of corporate information provide further connections with <strong>trustworthy data-centric AI</strong>. <sup class="pub-ref"><a href="publications.html#c22">c22</a> · <a href="publications.html#c25">c25</a></sup></p>
+<div class="project-links">
+<p><a class="project-link" href="https://github.com/softlab-unimore/landmark"> <i class="bi bi-github"></i> Landmark </a> <a class="project-link" href="https://github.com/softlab-unimore/wym"> <i class="bi bi-github"></i> WYM </a> <a class="project-link" href="https://github.com/softlab-unimore/crew"> <i class="bi bi-github"></i> CREW </a></p>
+</div>
 </section>
-<section id="language-models-for-tabular-and-document-intelligence" class="level2">
-<h2 class="anchored" data-anchor-id="language-models-for-tabular-and-document-intelligence">Language Models for Tabular and Document Intelligence</h2>
-<p>Research on language models for reasoning over complex tables and documents.</p>
+</div>
+<div class="research-visual visual-explanation">
+<div class="visual-icon-row" aria-hidden="true">
+<p><span class="visual-icon"><i class="bi bi-cpu"></i></span> <span class="visual-connector"><i class="bi bi-arrow-right"></i></span> <span class="visual-icon"><i class="bi bi-eye"></i></span> <span class="visual-connector"><i class="bi bi-arrow-right"></i></span> <span class="visual-icon"><i class="bi bi-lightbulb"></i></span></p>
+</div>
+<div class="visual-caption">
+Models · Evidence · Recourse
+</div>
+</div>
+</div>
+<div class="research-card">
+<div class="research-visual visual-language">
+<div class="visual-icon-row" aria-hidden="true">
+<p><span class="visual-icon"><i class="bi bi-file-earmark-text"></i></span> <span class="visual-connector"><i class="bi bi-plus-lg"></i></span> <span class="visual-icon"><i class="bi bi-table"></i></span> <span class="visual-connector"><i class="bi bi-arrow-right"></i></span> <span class="visual-icon"><i class="bi bi-chat-square-text"></i></span></p>
+</div>
+<div class="visual-caption">
+Documents · Tables · Reasoning
+</div>
+</div>
+<div class="research-copy">
+<div class="research-kicker">
+03 · LANGUAGE &amp; STRUCTURED DATA
+</div>
+<section id="tabular-document-ai" class="level2">
+<h2 class="anchored" data-anchor-id="tabular-document-ai">Language Models for Tabular and Document Intelligence</h2>
+<p>This research area investigates the use of language models for <strong>understanding, querying, and reasoning</strong> over structured and semi-structured information.</p>
+<p><a href="https://aclanthology.org/2025.findings-acl.814/"><strong>GRI-QA</strong></a> provides a benchmark for question answering over complex environmental tables extracted from corporate sustainability reports. It covers numerical reasoning, heterogeneous table structures, and questions requiring the combination of information distributed across multiple tables and documents. <sup class="pub-ref"><a href="publications.html#c23">c23</a></sup></p>
+<p><a href="https://aclanthology.org/2026.eacl-demo.7/"><strong>CLARIESG</strong></a> is an end-to-end framework for analysing ESG information in corporate reports. It combines table extraction, structured prompting, unit normalization, table selection, and program-based reasoning to support <strong>transparent and verifiable analyses</strong> of sustainability indicators and potential ESG-washing practices. <sup class="pub-ref"><a href="publications.html#c25">c25</a></sup></p>
+<p>Related work addresses natural language understanding and educational applications, including <a href="https://aclanthology.org/2024.emnlp-main.1054/"><strong>argument-relation classification</strong></a> through discourse information and adversarial training, and <a href="https://doi.org/10.1007/978-3-032-29755-6_4"><strong>CLAIRE</strong></a>, a controllable multi-agent framework for guided reading comprehension. <sup class="pub-ref"><a href="publications.html#c21">c21</a> · <a href="publications.html#c26">c26</a></sup></p>
+<div class="project-links">
+<p><a class="project-link" href="https://github.com/softlab-unimore/gri_qa"> <i class="bi bi-github"></i> GRI-QA </a> <a class="project-link" href="https://github.com/softlab-unimore/ClariESG"> <i class="bi bi-github"></i> CLARIESG </a> <a class="project-link" href="https://github.com/softlab-unimore/disarm"> <i class="bi bi-github"></i> DISARM </a> <a class="project-link" href="https://github.com/softlab-unimore/Claire"> <i class="bi bi-github"></i> CLAIRE </a></p>
+</div>
 </section>
-<section id="in-dbms-machine-learning-inference" class="level2">
-<h2 class="anchored" data-anchor-id="in-dbms-machine-learning-inference">In-DBMS Machine Learning Inference</h2>
-<p>Research on the execution of machine learning pipelines within relational database systems.</p>
+</div>
+</div>
+<div class="research-card research-card--reverse">
+<div class="research-copy">
+<div class="research-kicker">
+04 · DATA-SIDE DEPLOYMENT
+</div>
+<section id="in-dbms-inference" class="level2">
+<h2 class="anchored" data-anchor-id="in-dbms-inference">In-DBMS Machine Learning Inference</h2>
+<p>This research area studies the execution of machine learning pipelines directly within <strong>relational database management systems</strong>. The objective is to reduce data movement and simplify deployment by translating preprocessing operations and predictive models into SQL.</p>
+<p><a href="https://doi.org/10.1109/TKDE.2023.3269592"><strong>MASQ</strong></a> transforms machine learning pipelines into standard SQL queries, allowing inference to be executed where the data reside. The corresponding evaluation analyses relational databases as prediction-serving platforms, considering <strong>execution efficiency</strong>, deployment complexity, and compatibility with different models and preprocessing operations. <sup class="pub-ref"><a href="publications.html#c7">c7</a> · <a href="publications.html#j5">j5</a> · <a href="publications.html#c18">c18</a></sup></p>
+<div class="project-links">
+<p><a class="project-link" href="https://github.com/softlab-unimore/MASQ"> <i class="bi bi-github"></i> MASQ </a></p>
+</div>
+</section>
+</div>
+<div class="research-visual visual-dbms">
+<div class="visual-icon-row" aria-hidden="true">
+<p><span class="visual-icon"><i class="bi bi-cpu"></i></span> <span class="visual-connector"><i class="bi bi-arrow-right"></i></span> <span class="visual-icon"><i class="bi bi-code-square"></i></span> <span class="visual-connector"><i class="bi bi-arrow-right"></i></span> <span class="visual-icon"><i class="bi bi-database-check"></i></span></p>
+</div>
+<div class="visual-caption">
+Models · SQL · DBMS
+</div>
+</div>
+</div>
+<div class="additional-research">
+<div class="research-kicker">
+ADDITIONAL DIRECTIONS
+</div>
+<section id="additional-research-contributions" class="level2">
+<h2 class="anchored" data-anchor-id="additional-research-contributions">Additional Research Contributions</h2>
+<div class="research-mini-grid">
+<div class="research-mini-card">
+<div class="research-mini-icon">
+<p><i class="bi bi-search" aria-hidden="true"></i></p>
+</div>
+<section id="data-exploration" class="level3">
+<h3 class="anchored" data-anchor-id="data-exploration">Data Exploration</h3>
+<p>Interactive exploration and automatic description of large datasets.</p>
+<p><a href="./publications.html#c3" class="mini-ref"><em>c3</em></a> · <a href="./publications.html#c8" class="mini-ref"><em>c8</em></a> · <a href="./publications.html#j2" class="mini-ref"><em>j2</em></a></p>
+</section>
+</div>
+<div class="research-mini-card">
+<div class="research-mini-icon">
+<p><i class="bi bi-activity" aria-hidden="true"></i></p>
+</div>
+<section id="anomaly-detection" class="level3">
+<h3 class="anchored" data-anchor-id="anomaly-detection">Anomaly Detection</h3>
+<p>Novelty and anomaly detection in industrial and network environments.</p>
+<p><a href="./publications.html#c12" class="mini-ref"><em>c12</em></a> · <a href="./publications.html#j4" class="mini-ref"><em>j4</em></a> · <a href="./publications.html#j8" class="mini-ref"><em>j8</em></a></p>
+</section>
+</div>
+<div class="research-mini-card">
+<div class="research-mini-icon">
+<p><i class="bi bi-graph-up-arrow" aria-hidden="true"></i></p>
+</div>
+<section id="financial-machine-learning" class="level3">
+<h3 class="anchored" data-anchor-id="financial-machine-learning">Financial Machine Learning</h3>
+<p>Machine learning methods and evaluation challenges in financial applications.</p>
+<p><a href="./publications.html#c16" class="mini-ref"><em>c16</em></a></p>
+</section>
+</div>
+<div class="research-mini-card">
+<div class="research-mini-icon">
+<p><i class="bi bi-diagram-2" aria-hidden="true"></i></p>
+</div>
+<section id="parallel-data-integration" class="level3">
+<h3 class="anchored" data-anchor-id="parallel-data-integration">Parallel Data Integration</h3>
+<p>Parallel algorithms for relational integration and full-disjunction computation.</p>
+<p><a href="./publications.html#j1" class="mini-ref"><em>j1</em></a></p>
+</section>
+</div>
+</div>
+</section>
+</div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

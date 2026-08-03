@@ -11,35 +11,42 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research activity lies at the intersection of data management and artificial intelligence."
+    "text": "RESEARCH PROFILE\n\nMy research activity lies at the intersection of data management and artificial intelligence, with a focus on methods for integrating, understanding, querying, and explaining heterogeneous structured and semi-structured data.\n\nData Integration Trustworthy AI Tabular & Document AI In-DBMS Inference"
   },
   {
-    "objectID": "research.html#data-integration-and-matching",
-    "href": "research.html#data-integration-and-matching",
+    "objectID": "research.html#data-integration",
+    "href": "research.html#data-integration",
     "title": "Research",
     "section": "Data Integration and Matching",
-    "text": "Data Integration and Matching\nResearch on entity matching, schema matching, data integration quality, and table discovery."
+    "text": "Data Integration and Matching\nThis research area addresses the integration of heterogeneous data at the record, schema, and table levels. It includes the automatic configuration of rule-based Entity Matching systems through TuneR, the integration of noisy data sources in real-world settings, and the combination of transformer representations with Automated Machine Learning for entity deduplication. c1 · c2 · c4 · c10\nA further component concerns the analysis of BERT-based Entity Matching models, with particular attention to their behaviour, performance, and sensitivity to data characteristics. j3 · j6 · c20\nAdditional contributions cover synonymous attribute identification, privacy-preserving schema matching, and unsupervised evaluation of data integration in the absence of ground truth. At the table level, Armadillo learns graph-based representations for estimating table overlap and identifying duplicate, related, or evolving tables in large collections. c5 · c6 · c14 · c22 · j7\n\n  AutoML for EM    BERT Analysis    PRISMA"
   },
   {
-    "objectID": "research.html#explainable-and-trustworthy-ai",
-    "href": "research.html#explainable-and-trustworthy-ai",
+    "objectID": "research.html#trustworthy-ai",
+    "href": "research.html#trustworthy-ai",
     "title": "Research",
     "section": "Explainable and Trustworthy AI",
-    "text": "Explainable and Trustworthy AI\nResearch on interpretable entity matching and counterfactual explanations."
+    "text": "Explainable and Trustworthy AI\nThis research area focuses on the transparency, interpretability, and actionability of machine learning systems. A substantial part of the work concerns Entity Matching models, for which explanations identify the attributes, words, or combinations of terms that influence matching decisions.\nThe proposed approaches include post-hoc explanations based on input perturbations through Landmark, intrinsically interpretable architectures such as WYM, and CREW, which organizes influential terms into compact and understandable clusters. These contributions investigate the relationship between explanation fidelity, interpretability, and usability. c9 · c11 · c13 · c15 · c17 · c19 · c24\nThe same research direction extends to decision-support systems in other domains. CREDIX studies expert-guided counterfactual explanations for credit-risk models, with the objective of producing realistic and actionable alternatives. Privacy-aware integration and transparent analysis of corporate information provide further connections with trustworthy data-centric AI. c22 · c25\n\n  Landmark    WYM    CREW"
   },
   {
-    "objectID": "research.html#language-models-for-tabular-and-document-intelligence",
-    "href": "research.html#language-models-for-tabular-and-document-intelligence",
+    "objectID": "research.html#tabular-document-ai",
+    "href": "research.html#tabular-document-ai",
     "title": "Research",
     "section": "Language Models for Tabular and Document Intelligence",
-    "text": "Language Models for Tabular and Document Intelligence\nResearch on language models for reasoning over complex tables and documents."
+    "text": "Language Models for Tabular and Document Intelligence\nThis research area investigates the use of language models for understanding, querying, and reasoning over structured and semi-structured information.\nGRI-QA provides a benchmark for question answering over complex environmental tables extracted from corporate sustainability reports. It covers numerical reasoning, heterogeneous table structures, and questions requiring the combination of information distributed across multiple tables and documents. c23\nCLARIESG is an end-to-end framework for analysing ESG information in corporate reports. It combines table extraction, structured prompting, unit normalization, table selection, and program-based reasoning to support transparent and verifiable analyses of sustainability indicators and potential ESG-washing practices. c25\nRelated work addresses natural language understanding and educational applications, including argument-relation classification through discourse information and adversarial training, and CLAIRE, a controllable multi-agent framework for guided reading comprehension. c21 · c26\n\n  GRI-QA    CLARIESG    DISARM    CLAIRE"
   },
   {
-    "objectID": "research.html#in-dbms-machine-learning-inference",
-    "href": "research.html#in-dbms-machine-learning-inference",
+    "objectID": "research.html#in-dbms-inference",
+    "href": "research.html#in-dbms-inference",
     "title": "Research",
     "section": "In-DBMS Machine Learning Inference",
-    "text": "In-DBMS Machine Learning Inference\nResearch on the execution of machine learning pipelines within relational database systems."
+    "text": "In-DBMS Machine Learning Inference\nThis research area studies the execution of machine learning pipelines directly within relational database management systems. The objective is to reduce data movement and simplify deployment by translating preprocessing operations and predictive models into SQL.\nMASQ transforms machine learning pipelines into standard SQL queries, allowing inference to be executed where the data reside. The corresponding evaluation analyses relational databases as prediction-serving platforms, considering execution efficiency, deployment complexity, and compatibility with different models and preprocessing operations. c7 · j5 · c18\n\n  MASQ"
+  },
+  {
+    "objectID": "research.html#additional-research-contributions",
+    "href": "research.html#additional-research-contributions",
+    "title": "Research",
+    "section": "Additional Research Contributions",
+    "text": "Additional Research Contributions\n\n\n\n\n\n\nData Exploration\nInteractive exploration and automatic description of large datasets.\nc3 · c8 · j2\n\n\n\n\n\n\n\nAnomaly Detection\nNovelty and anomaly detection in industrial and network environments.\nc12 · j4 · j8\n\n\n\n\n\n\n\nFinancial Machine Learning\nMachine learning methods and evaluation challenges in financial applications.\nc16\n\n\n\n\n\n\n\nParallel Data Integration\nParallel algorithms for relational integration and full-disjunction computation.\nj1"
   },
   {
     "objectID": "projects.html",
@@ -79,23 +86,86 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Matteo Paganelli",
+    "title": "Academic Profile",
     "section": "",
-    "text": "Matteo Paganelli is a tenure-track researcher at the Marco Biagi Department of Economics, University of Modena and Reggio Emilia. He previously conducted postdoctoral research at the Hasso Plattner Institute in Potsdam and received his Ph.D. in Information and Communication Technologies from the University of Modena and Reggio Emilia in 2021.\nHe holds the Italian National Scientific Qualification for Associate Professor in Information Processing Systems and Informatics.\nHis research focuses on data management and integration, language and tabular AI, and trustworthy AI, including explainability and fact-checking."
+    "text": "MATTEO PAGANELLI\nTenure-Track Researcher\nData Management · Artificial Intelligence\n\n\nDepartment\n\nMarco Biagi Department of Economics\n\nUniversity\n\nUniversity of Modena and Reggio Emilia\n\nResearch group\n\nDTALab\n\nResearch base\n\nEnzo Ferrari Department of Engineering\n\nAcademic field\n\nIINF-05/A — Information Processing Systems\n\n\n\nACADEMIC PROFILES\n\n UNIMORE Profile\n ORCID\n Google Scholar\n Scopus\n DBLP\n GitHub\n LinkedIn\n Email\n\n\n\n\nABOUT\n\n\nMatteo Paganelli is a tenure-track researcher at the Marco Biagi Department of Economics, University of Modena and Reggio Emilia.\nHe conducts research within DTALab, a research group based at the Enzo Ferrari Department of Engineering. He previously carried out postdoctoral research at the Hasso Plattner Institute in Potsdam.\nHe received his Ph.D. in Information and Communication Technologies from the University of Modena and Reggio Emilia and holds the Italian National Scientific Qualification for Associate Professor in Information Processing Systems and Informatics.\nHis research focuses on data management and integration, language and tabular AI, and trustworthy AI, including explainability and fact-checking.\n\n\n\n\n\n\n01\n\n\nIntegration of heterogeneous information at the record, schema, and table levels.\nExplore this area\n\n\n\n02\n\n\nTransparent, interpretable, and actionable machine learning systems.\nExplore this area\n\n\n\n03\n\n\nLanguage models for understanding and reasoning over complex tables and documents.\nExplore this area\n\n\n\n04\n\n\nTranslation and execution of machine learning pipelines within relational databases.\nExplore this area"
   },
   {
-    "objectID": "index.html#research-areas",
-    "href": "index.html#research-areas",
-    "title": "Matteo Paganelli",
-    "section": "Research Areas",
-    "text": "Research Areas\n\nData Integration and Matching\nExplainable and Trustworthy AI\nLanguage Models for Tabular and Document Intelligence\nIn-DBMS Machine Learning Inference"
+    "objectID": "index.html#research-focus",
+    "href": "index.html#research-focus",
+    "title": "Academic Profile",
+    "section": "",
+    "text": "01\n\n\nIntegration of heterogeneous information at the record, schema, and table levels.\nExplore this area\n\n\n\n02\n\n\nTransparent, interpretable, and actionable machine learning systems.\nExplore this area\n\n\n\n03\n\n\nLanguage models for understanding and reasoning over complex tables and documents.\nExplore this area\n\n\n\n04\n\n\nTranslation and execution of machine learning pipelines within relational databases.\nExplore this area"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "The complete publication list will be added to this page."
+    "text": "PUBLICATION RECORD\n\nThe publication list is organized chronologically. Each entry provides links to the paper and, when available, to the corresponding source code or research artifact.\n\n2026 2025 2024 2023 2022 2021 2020 2019 2017\n\n\n\nc* Conference paper\n\n\nj* Journal article"
+  },
+  {
+    "objectID": "publications.html#y2026",
+    "href": "publications.html#y2026",
+    "title": "Publications",
+    "section": "2026",
+    "text": "2026\n\nc26\n\nCLAIRE: A Controllable LLM Tutoring Framework for Reading Comprehension\nChiara Magurno, Michele Luca Contalbo, Matteo Paganelli, Enrico Giliberti, Chiara Bertolini, Francesco Guerra\nAIED 2026\n Paper  Code\n\n\n\nc25\n\nCLARIESG: An End-to-End System for ESG Analysis over Complex Tables in Corporate Reports\nMarta Santacroce, Michele Luca Contalbo, Sara Pederzoli, Riccardo Benassi, Valeria Venturelli, Matteo Paganelli, Francesco Guerra\nEACL 2026\n Paper  Code"
+  },
+  {
+    "objectID": "publications.html#y2025",
+    "href": "publications.html#y2025",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\n\nj8\n\nNOCTOWL: Adaptive Tree-Based Model for Network Anomaly Detection Under Delayed and Sampled Label Availability\nSara Pederzoli, Matteo Paganelli, Michele Luca Contalbo, Riccardo Benassi, Donato Tiano, Stefano Iannucci, Francesco Guerra\nIEEE Access\n Paper  Code\n\n\n\nj7\n\nTable Overlap Estimation through Graph Embeddings\nFrancesco Pugnaloni, Luca Zecchini, Matteo Paganelli, Matteo Lissandrini, Felix Naumann, Giovanni Simonini\nProceedings of the ACM on Management of Data\n Paper\n\n\n\nc24\n\nExplaining Entity Matching Models with CREW\nRiccardo Benassi, Michele Luca Contalbo, Francesco Del Buono, Francesco Guerra, Giacomo Guiduzzi, Matteo Paganelli, Sara Pederzoli, Donato Tiano, Maurizio Vincini\nSEBD 2025\n Paper  Code\n\n\n\nc23\n\nGRI-QA: A Comprehensive Benchmark for Table Question Answering over Environmental Data\nMichele Luca Contalbo, Sara Pederzoli, Francesco Del Buono, Valeria Venturelli, Francesco Guerra, Matteo Paganelli\nFindings of ACL 2025\n Paper  Code\n\n\n\nc22\n\nPRISMA: A Privacy-Preserving Schema Matcher Using Functional Dependencies\nJan-Eric Hellenberg, Fabian Mahling, Lukas Laskowski, Felix Naumann, Matteo Paganelli, Fabian Panse\nEDBT 2025\n Paper  Code"
+  },
+  {
+    "objectID": "publications.html#y2024",
+    "href": "publications.html#y2024",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\n\nj6\n\nA Multi-Facet Analysis of BERT-Based Entity Matching Models\nMatteo Paganelli, Donato Tiano, Francesco Guerra\nThe VLDB Journal\n Paper  Code\n\n\n\nc21\n\nArgument Relation Classification through Discourse Markers and Adversarial Training\nMichele Contalbo, Francesco Guerra, Matteo Paganelli\nEMNLP 2024\n Paper  Code\n\n\n\nc20\n\nHow Transformers Are Revolutionizing Entity Matching\nMatteo Paganelli, Donato Tiano, Francesco Del Buono, Andrea Baraldi, Riccardo Benassi, Giacomo Guiduzzi, Francesco Guerra\nSEBD 2024\n Paper  Code\n\n\n\nc19\n\nExplaining Entity Matching with Clusters of Words\nRiccardo Benassi, Francesco Guerra, Matteo Paganelli, Donato Tiano\nICDE 2024\n Paper  Code\n\n\n\nc18\n\nPushing ML Predictions into DBMSs (Extended Abstract)\nMatteo Paganelli, Paolo Sottovia, Kwanghyun Park, Matteo Interlandi, Francesco Guerra\nICDE 2024\n Paper  Code"
+  },
+  {
+    "objectID": "publications.html#y2023",
+    "href": "publications.html#y2023",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\nj5\n\nPushing ML Predictions into DBMSs\nMatteo Paganelli, Paolo Sottovia, Kwanghyun Park, Matteo Interlandi, Francesco Guerra\nIEEE Transactions on Knowledge and Data Engineering\n Paper  Code\n\n\n\nc17\n\nAn Intrinsically Interpretable Entity Matching System\nAndrea Baraldi, Francesco Del Buono, Francesco Guerra, Matteo Paganelli, Maurizio Vincini\nEDBT 2023\n Paper  Code\n\n\n\nc16\n\nAvoiding the Pitfalls on Stock Market: Challenges and Solutions in Developing Quantitative Strategies\nMarco Bergianti, Nicola Cioffo, Francesco Del Buono, Matteo Paganelli, Angelo Porrello\nItal-IA 2023\n Paper\n\n\n\nc15\n\nInterpretable Entity Matching with WYM\nAndrea Baraldi, Francesco Del Buono, Francesco Guerra, Giacomo Guiduzzi, Matteo Paganelli, Maurizio Vincini\nSEBD 2023\n Paper  Code"
+  },
+  {
+    "objectID": "publications.html#y2022",
+    "href": "publications.html#y2022",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\n\nj4\n\nNovelty Detection with Autoencoders for System Health Monitoring in Industrial Environments\nFrancesco Del Buono, Francesca Calabrese, Andrea Baraldi, Matteo Paganelli, Francesco Guerra\nApplied Sciences\n Paper  Code\n\n\n\nj3\n\nAnalyzing How BERT Performs Entity Matching\nMatteo Paganelli, Francesco Del Buono, Andrea Baraldi, Francesco Guerra\nProceedings of the VLDB Endowment\n Paper  Code\n\n\n\nc14\n\nEvaluating the Integration of Datasets\nMatteo Paganelli, Francesco Del Buono, Francesco Guerra, Nicola Ferro\nSAC 2022\n Paper  Code\n\n\n\nc13\n\nLandmark Explanation: A Tool for Entity Matching\nAndrea Baraldi, Francesco Del Buono, Matteo Paganelli, Francesco Guerra\nSEBD 2022\n Paper  Code\n\n\n\nc12\n\nData-Driven Predictive Maintenance in Evolving Environments: A Comparison Between Machine Learning and Deep Learning for Novelty Detection\nFrancesco Del Buono, Francesca Calabrese, Andrea Baraldi, Matteo Paganelli, Alberto Regattieri\nSustainable Design and Manufacturing, Smart Innovation, Systems and Technologies\n Paper"
+  },
+  {
+    "objectID": "publications.html#y2021",
+    "href": "publications.html#y2021",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\n\nc11\n\nLandmark Explanation: An Explainer for Entity Matching Models\nAndrea Baraldi, Francesco Del Buono, Matteo Paganelli, Francesco Guerra\nCIKM 2021\n Paper  Code\n\n\n\nc10\n\nAutomated Machine Learning for Entity Matching Tasks\nMatteo Paganelli, Francesco Del Buono, Marco Pevarello, Francesco Guerra, Maurizio Vincini\nEDBT 2021\n Paper  Code\n\n\n\nc9\n\nUsing Landmarks for Explaining Entity Matching Models\nAndrea Baraldi, Francesco Del Buono, Matteo Paganelli, Francesco Guerra\nEDBT 2021\n Paper  Code\n\n\n\nc8\n\nUsing Descriptions for Explaining Entity Matches\nMatteo Paganelli, Paolo Sottovia, Antonio Maccioni, Matteo Interlandi, Francesco Guerra\nSEBD 2021\n Paper\n\n\n\nc7\n\nTransforming ML Predictive Pipelines into SQL with MASQ\nFrancesco Del Buono, Matteo Paganelli, Paolo Sottovia, Matteo Interlandi, Francesco Guerra\nSIGMOD 2021\n Paper  Code"
+  },
+  {
+    "objectID": "publications.html#y2020",
+    "href": "publications.html#y2020",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\n\nj2\n\nExplaining Data with Descriptions\nMatteo Paganelli, Paolo Sottovia, Antonio Maccioni, Matteo Interlandi, Francesco Guerra\nInformation Systems\n Paper\n\n\n\nc6\n\nUnsupervised Evaluation of Data Integration Processes\nMatteo Paganelli, Francesco Del Buono, Francesco Guerra, Nicola Ferro\niiWAS 2020\n Paper  Code"
+  },
+  {
+    "objectID": "publications.html#y2019",
+    "href": "publications.html#y2019",
+    "title": "Publications",
+    "section": "2019",
+    "text": "2019\n\nj1\n\nParallelizing Computations of Full Disjunctions\nMatteo Paganelli, Domenico Beneventano, Francesco Guerra, Paolo Sottovia\nBig Data Research\n Paper\n\n\n\nc5\n\nFinding Synonymous Attributes in Evolving Wikipedia Infoboxes\nPaolo Sottovia, Matteo Paganelli, Francesco Guerra, Yannis Velegrakis\nADBIS 2019\n Paper\n\n\n\nc4\n\nBig Data Integration of Heterogeneous Data Sources: The Re-Search Alps Case Study\nFrancesco Guerra, Paolo Sottovia, Matteo Paganelli, Maurizio Vincini\nIEEE Big Data Congress 2019\n Paper\n\n\n\nc3\n\nUnderstanding Data in the Blink of an Eye\nMatteo Paganelli, Paolo Sottovia, Antonio Maccioni, Matteo Interlandi, Francesco Guerra\nCIKM 2019\n Paper\n\n\n\nc2\n\nTuneR: Fine Tuning of Rule-Based Entity Matchers\nMatteo Paganelli, Paolo Sottovia, Francesco Guerra, Yannis Velegrakis\nCIKM 2019\n Paper"
+  },
+  {
+    "objectID": "publications.html#y2017",
+    "href": "publications.html#y2017",
+    "title": "Publications",
+    "section": "2017",
+    "text": "2017\n\nc1\n\nThe RE-SEARCH ALPS (Research Laboratories in the Alpine Area) Project\nFrancesco Guerra, Margherita Russo, Marco Fontana, Matteo Paganelli, François Bancilhon, Christian Frisch, Loïc Petit, Anna Giorgi, Emanuela Zilio\nHPCS 2017\n Paper"
   },
   {
     "objectID": "service.html",

@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Courses and teaching activities at the University of Modena and Reggio Emilia and other institutions."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research activity lies at the intersection of data management and artificial intelligence."
+  },
+  {
+    "objectID": "research.html#data-integration-and-matching",
+    "href": "research.html#data-integration-and-matching",
+    "title": "Research",
+    "section": "Data Integration and Matching",
+    "text": "Data Integration and Matching\nResearch on entity matching, schema matching, data integration quality, and table discovery."
+  },
+  {
+    "objectID": "research.html#explainable-and-trustworthy-ai",
+    "href": "research.html#explainable-and-trustworthy-ai",
+    "title": "Research",
+    "section": "Explainable and Trustworthy AI",
+    "text": "Explainable and Trustworthy AI\nResearch on interpretable entity matching and counterfactual explanations."
+  },
+  {
+    "objectID": "research.html#language-models-for-tabular-and-document-intelligence",
+    "href": "research.html#language-models-for-tabular-and-document-intelligence",
+    "title": "Research",
+    "section": "Language Models for Tabular and Document Intelligence",
+    "text": "Language Models for Tabular and Document Intelligence\nResearch on language models for reasoning over complex tables and documents."
+  },
+  {
+    "objectID": "research.html#in-dbms-machine-learning-inference",
+    "href": "research.html#in-dbms-machine-learning-inference",
+    "title": "Research",
+    "section": "In-DBMS Machine Learning Inference",
+    "text": "In-DBMS Machine Learning Inference\nResearch on the execution of machine learning pipelines within relational database systems."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Information about national, regional, and European research projects."
+  },
+  {
+    "objectID": "projects.html#funded-research-projects",
+    "href": "projects.html#funded-research-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Information about national, regional, and European research projects."
+  },
+  {
+    "objectID": "projects.html#applied-research-and-consultancy-projects",
+    "href": "projects.html#applied-research-and-consultancy-projects",
+    "title": "Projects",
+    "section": "Applied Research and Consultancy Projects",
+    "text": "Applied Research and Consultancy Projects\nInformation about applied research collaborations with companies and public institutions."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "A downloadable version of the complete academic CV will be available here."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Matteo Paganelli",
+    "section": "",
+    "text": "Matteo Paganelli is a tenure-track researcher at the Marco Biagi Department of Economics, University of Modena and Reggio Emilia. He previously conducted postdoctoral research at the Hasso Plattner Institute in Potsdam and received his Ph.D. in Information and Communication Technologies from the University of Modena and Reggio Emilia in 2021.\nHe holds the Italian National Scientific Qualification for Associate Professor in Information Processing Systems and Informatics.\nHis research focuses on data management and integration, language and tabular AI, and trustworthy AI, including explainability and fact-checking."
+  },
+  {
+    "objectID": "index.html#research-areas",
+    "href": "index.html#research-areas",
+    "title": "Matteo Paganelli",
+    "section": "Research Areas",
+    "text": "Research Areas\n\nData Integration and Matching\nExplainable and Trustworthy AI\nLanguage Models for Tabular and Document Intelligence\nIn-DBMS Machine Learning Inference"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "The complete publication list will be added to this page."
+  },
+  {
+    "objectID": "service.html",
+    "href": "service.html",
+    "title": "Academic Service",
+    "section": "",
+    "text": "Program committee memberships, reviewing activities, and academic awards."
+  }
+]

@@ -20,12 +20,10 @@ website:
         text: Teaching
       - href: service.qmd
         text: Academic Service
-      - href: cv.qmd
-        text: CV
 
     right:
-      - icon: github
-        href: "https://github.com/matteo-paganelli"
+      - icon: building
+        href: "https://unimore.unifind.cineca.it/get/person/104872"
       - icon: linkedin
         href: "https://www.linkedin.com/in/matteo-paganelli-71410a150/"
       - icon: envelope

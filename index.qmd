@@ -1,6 +1,8 @@
 ---
 page-layout: full
 toc: false
+aliases:
+  - /cv.html
 description: "Academic website of Matteo Paganelli, researcher in data management, artificial intelligence, and trustworthy AI."
 ---
 
@@ -75,6 +77,28 @@ He conducts research within [**DTALab**](https://dtalab.unimore.it/){target="_bl
 He received his Ph.D. in Information and Communication Technologies from the University of Modena and Reggio Emilia and holds the Italian National Scientific Qualification for Associate Professor in Information Processing Systems and Informatics.
 
 His research focuses on **data management and integration**, **language and tabular AI**, and **trustworthy AI**, including explainability and fact-checking.
+
+::::
+
+:::: {.cv-download-card}
+
+::: {.cv-download-icon}
+<i class="bi bi-file-earmark-person"></i>
+:::
+
+::: {.cv-download-content}
+
+[CURRICULUM VITAE]{.cv-download-kicker}
+
+## Full Academic CV
+
+A complete overview of professional experience, education, research projects, teaching, academic service, and publications.
+
+[Updated August 2026 · PDF]{.cv-download-meta}
+
+:::
+
+[<i class="bi bi-download"></i> Download CV](files/Matteo_Paganelli_CV.pdf){.cv-download-button download="Matteo_Paganelli_CV.pdf"}
 
 ::::
 

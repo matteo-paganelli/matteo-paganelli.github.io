@@ -1,5 +1,332 @@
 ---
 title: "Academic Service"
+page-layout: full
+toc: false
 ---
 
-Program committee memberships, reviewing activities, and academic awards.
+::: {.service-hero}
+
+[ACADEMIC COMMUNITY]{.service-eyebrow}
+
+Academic service through **peer review, program committee participation, and research dissemination** across the data management, information retrieval, and natural language processing communities.
+
+:::: {.service-highlights}
+
+::: {.service-highlight}
+
+::: {.service-highlight-icon}
+<i class="bi bi-journal-check"></i>
+:::
+
+[2018]{.service-highlight-value}
+
+[Reviewing activity since]{.service-highlight-label}
+
+:::
+
+
+::: {.service-highlight}
+
+::: {.service-highlight-icon}
+<i class="bi bi-mic"></i>
+:::
+
+[10]{.service-highlight-value}
+
+[Conference presentations]{.service-highlight-label}
+
+:::
+
+
+::: {.service-highlight}
+
+::: {.service-highlight-icon}
+<i class="bi bi-award"></i>
+:::
+
+[1]{.service-highlight-value}
+
+[Distinguished reviewer award]{.service-highlight-label}
+
+:::
+
+::::
+
+::: {.service-navigation}
+
+[Reviewing and Committees](#reviewing-committees)
+
+[Award](#service-award)
+
+[Conference Presentations](#conference-presentations)
+
+:::
+
+:::
+
+
+:::::: {.service-section .service-section--reviewing}
+
+::::: {.service-section-header}
+
+::: {.service-section-icon}
+<i class="bi bi-people"></i>
+:::
+
+::: {.service-section-heading}
+
+[SCHOLARLY SERVICE]{.service-section-kicker}
+
+## Reviewing and Program Committees {#reviewing-committees}
+
+Peer-review and committee activities for international conferences, journals, and rolling-review initiatives.
+
+:::
+
+[2018–Present]{.service-section-period}
+
+:::::
+
+
+::::: {.service-card-grid}
+
+
+:::: {.service-card .service-card--committee}
+
+::: {.service-card-top}
+
+::: {.service-card-icon}
+<i class="bi bi-person-check"></i>
+:::
+
+[Committee Service]{.service-card-category}
+
+:::
+
+### Program Committees and Review Boards
+
+Participation in the evaluation and selection of research contributions for major data-management and information-retrieval venues.
+
+::: {.service-chip-list}
+
+[SIGMOD · 2023, 2025–2026](https://sigmod.org/){.service-chip target="_blank" rel="noopener"}
+
+[CIKM · 2024, 2026](https://www.cikmconference.org/){.service-chip target="_blank" rel="noopener"}
+
+[DOLAP · 2024–2025](https://dolapworkshop.github.io/){.service-chip target="_blank" rel="noopener"}
+
+[EDBT · 2027](https://edbt.org/){.service-chip target="_blank" rel="noopener"}
+
+[PVLDB · 2027](https://www.vldb.org/pvldb/){.service-chip target="_blank" rel="noopener"}
+
+:::
+
+::::
+
+
+:::: {.service-card .service-card--reviewing}
+
+::: {.service-card-top}
+
+::: {.service-card-icon}
+<i class="bi bi-journal-text"></i>
+:::
+
+[Peer Review]{.service-card-category}
+
+:::
+
+### Conference and Journal Reviewing
+
+Reviewing activity spanning data management, information quality, information retrieval, multimedia systems, and natural language processing.
+
+::: {.service-chip-list}
+
+[ACL Rolling Review · 2026](https://aclrollingreview.org/){.service-chip target="_blank" rel="noopener"}
+
+[VLDB Journal · 2024](https://link.springer.com/journal/778){.service-chip target="_blank" rel="noopener"}
+
+[Journal of Data and Information Quality · 2025](https://dl.acm.org/journal/jdiq){.service-chip target="_blank" rel="noopener"}
+
+[Journal on Data Semantics · 2021](https://link.springer.com/journal/13740){.service-chip target="_blank" rel="noopener"}
+
+[Multimedia Tools and Applications · 2023](https://link.springer.com/journal/11042){.service-chip target="_blank" rel="noopener"}
+
+[CIKM · 2018, 2020–2021](https://www.cikmconference.org/){.service-chip target="_blank" rel="noopener"}
+
+[WSDM · 2021](https://www.wsdm-conference.org/){.service-chip target="_blank" rel="noopener"}
+
+[SIGIR · 2021](https://sigir.org/){.service-chip target="_blank" rel="noopener"}
+
+:::
+
+::::
+
+
+:::::
+
+::::::
+
+
+:::: {.service-award #service-award}
+
+::: {.service-award-icon}
+<i class="bi bi-award"></i>
+:::
+
+::: {.service-award-body}
+
+[RECOGNITION]{.service-award-kicker}
+
+## Distinguished Reviewer Award
+
+Recognized as a **Distinguished Reviewer for ACM SIGMOD 2025** for the quality and contribution of the reviews provided during the conference evaluation process.
+
+[ACM SIGMOD · 2025]{.service-award-venue}
+
+:::
+
+[2025]{.service-award-year}
+
+::::
+
+
+:::::: {.service-section .service-section--presentations}
+
+::::: {.service-section-header}
+
+::: {.service-section-icon}
+<i class="bi bi-mic"></i>
+:::
+
+::: {.service-section-heading}
+
+[RESEARCH DISSEMINATION]{.service-section-kicker}
+
+## Conference Presentations {#conference-presentations}
+
+Presentation and discussion of peer-reviewed research at international conferences in data management, artificial intelligence, and natural language processing.
+
+:::
+
+[2019–Present]{.service-section-period}
+
+:::::
+
+
+::::: {.service-presentation-grid}
+
+
+::: {.service-presentation-item .service-presentation-item--recent}
+
+[2026]{.service-presentation-year}
+
+[EACL]{.service-presentation-venue}
+
+[European Chapter of the ACL]{.service-presentation-name}
+
+:::
+
+
+::: {.service-presentation-item .service-presentation-item--recent}
+
+[2026]{.service-presentation-year}
+
+[ADBIS]{.service-presentation-venue}
+
+[Advances in Databases and Information Systems]{.service-presentation-name}
+
+:::
+
+
+::: {.service-presentation-item}
+
+[2024]{.service-presentation-year}
+
+[ICDE]{.service-presentation-venue}
+
+[International Conference on Data Engineering]{.service-presentation-name}
+
+:::
+
+
+::: {.service-presentation-item}
+
+[2022]{.service-presentation-year}
+
+[VLDB]{.service-presentation-venue}
+
+[Very Large Data Bases]{.service-presentation-name}
+
+:::
+
+
+::: {.service-presentation-item}
+
+[2021]{.service-presentation-year}
+
+[SIGMOD]{.service-presentation-venue}
+
+[Management of Data]{.service-presentation-name}
+
+:::
+
+
+::: {.service-presentation-item}
+
+[2021]{.service-presentation-year}
+
+[EDBT]{.service-presentation-venue}
+
+[Extending Database Technology]{.service-presentation-name}
+
+:::
+
+
+::: {.service-presentation-item}
+
+[2020]{.service-presentation-year}
+
+[iiWAS]{.service-presentation-venue}
+
+[Information Integration and Web Intelligence]{.service-presentation-name}
+
+:::
+
+
+::: {.service-presentation-item}
+
+[2019]{.service-presentation-year}
+
+[CIKM]{.service-presentation-venue}
+
+[Information and Knowledge Management]{.service-presentation-name}
+
+:::
+
+
+::: {.service-presentation-item}
+
+[2019]{.service-presentation-year}
+
+[ADBIS]{.service-presentation-venue}
+
+[Advances in Databases and Information Systems]{.service-presentation-name}
+
+:::
+
+
+::: {.service-presentation-item}
+
+[2019]{.service-presentation-year}
+
+[IEEE BDC]{.service-presentation-venue}
+
+[IEEE Big Data Congress]{.service-presentation-name}
+
+:::
+
+
+:::::
+
+::::::

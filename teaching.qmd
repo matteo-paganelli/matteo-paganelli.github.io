@@ -1,5 +1,413 @@
 ---
 title: "Teaching"
+page-layout: full
+toc: false
 ---
 
-Courses and teaching activities at the University of Modena and Reggio Emilia and other institutions.
+::: {.teaching-hero}
+
+[ACADEMIC TEACHING]{.teaching-eyebrow}
+
+Teaching activities across **undergraduate, graduate, and doctoral programmes**, covering business intelligence, data science, database systems, data integration, and software engineering.
+
+::: {.teaching-navigation}
+
+[Course Leadership](#course-leadership)
+
+[Doctoral & International](#advanced-teaching)
+
+[Teaching Contributions](#teaching-contributions)
+
+:::
+
+:::
+
+
+:::::: {.teaching-section .teaching-section--leadership}
+
+::::: {.teaching-section-header}
+
+::: {.teaching-section-icon}
+<i class="bi bi-mortarboard"></i>
+:::
+
+::: {.teaching-section-heading}
+
+[COURSE LEADERSHIP]{.teaching-section-kicker}
+
+## Course Leadership {#course-leadership}
+
+Courses for which responsibility includes course design, teaching, assessment, and coordination.
+
+:::
+
+[3 courses]{.teaching-section-count}
+
+:::::
+
+
+::::: {.teaching-grid}
+
+
+:::: {.teaching-card .teaching-card--business}
+
+::: {.teaching-card-top}
+
+::: {.teaching-card-icon}
+<i class="bi bi-bar-chart"></i>
+:::
+
+[2025–Present]{.teaching-period}
+
+:::
+
+### Business Intelligence
+
+[Course Instructor]{.teaching-role .teaching-role--lead}
+
+[MSc in International Management]{.teaching-programme}
+
+::: {.teaching-metadata}
+
+[6 ECTS]{.teaching-meta-item}
+
+[42 hours]{.teaching-meta-item}
+
+[English]{.teaching-meta-item}
+
+:::
+
+[Marco Biagi Department of Economics](https://www.economia.unimore.it/){.teaching-institution target="_blank" rel="noopener"}
+
+Introduction to the concepts, methods, and software tools used to transform raw business data into information supporting organizational decision-making.
+
+::: {.teaching-actions}
+
+[<i class="bi bi-journal-text"></i> Course page](https://unimore.coursecatalogue.cineca.it/corsi/2026/10938/insegnamenti/2027/30051/2026/9999?schemaid=22601){.teaching-action target="_blank" rel="noopener"}
+
+[<i class="bi bi-mortarboard"></i> Degree programme](https://unimore.coursecatalogue.cineca.it/corsi/2026/10816?codicione=0360107307800005){.teaching-action target="_blank" rel="noopener"}
+
+:::
+
+::::
+
+
+:::: {.teaching-card .teaching-card--hr}
+
+::: {.teaching-card-top}
+
+::: {.teaching-card-icon}
+<i class="bi bi-people"></i>
+:::
+
+[2025–Present]{.teaching-period}
+
+:::
+
+### HR Information Systems and Workforce Analytics
+
+[Course Instructor]{.teaching-role .teaching-role--lead}
+
+[MSc in Employment Relations]{.teaching-programme}
+
+::: {.teaching-metadata}
+
+[6 ECTS]{.teaching-meta-item}
+
+[48 hours]{.teaching-meta-item}
+
+[Italian]{.teaching-meta-item}
+
+:::
+
+[Marco Biagi Department of Economics](https://www.economia.unimore.it/){.teaching-institution target="_blank" rel="noopener"}
+
+Design and use of information systems for human-resource management, together with methods for data preparation, analysis, visualization, and business intelligence.
+
+::: {.teaching-actions}
+
+[<i class="bi bi-journal-text"></i> Course page](https://unimore.coursecatalogue.cineca.it/corsi/2026/10940/insegnamenti/2026/28981/2026/9999?schemaid=22587){.teaching-action target="_blank" rel="noopener"}
+
+[<i class="bi bi-mortarboard"></i> Degree programme](https://unimore.coursecatalogue.cineca.it/corsi/2026/10940?codicione=0360107307800009){.teaching-action target="_blank" rel="noopener"}
+
+:::
+
+::::
+
+
+:::: {.teaching-card .teaching-card--computer-literacy}
+
+::: {.teaching-card-top}
+
+::: {.teaching-card-icon}
+<i class="bi bi-grid-3x3-gap"></i>
+:::
+
+[2025]{.teaching-period}
+
+:::
+
+### Computer Sciences — Basic Qualification
+
+[Course Instructor]{.teaching-role .teaching-role--lead}
+
+[BSc in Economics and Finance]{.teaching-programme}
+
+::: {.teaching-metadata}
+
+[3 ECTS]{.teaching-meta-item}
+
+[24 hours]{.teaching-meta-item}
+
+[Italian]{.teaching-meta-item}
+
+:::
+
+[Marco Biagi Department of Economics](https://www.economia.unimore.it/){.teaching-institution target="_blank" rel="noopener"}
+
+Theoretical and practical introduction to spreadsheet-based data management and analysis, with a focus on Microsoft Excel for economic and financial applications.
+
+::: {.teaching-actions}
+
+[<i class="bi bi-journal-text"></i> Course page](https://unimore.coursecatalogue.cineca.it/corsi/2024/10288/insegnamenti/2024/18535/2010/9999?schemaid=22654){.teaching-action target="_blank" rel="noopener"}
+
+[<i class="bi bi-mortarboard"></i> Degree programme](https://unimore.coursecatalogue.cineca.it/corsi/2026/10288?codicione=0360106203300002){.teaching-action target="_blank" rel="noopener"}
+
+:::
+
+::::
+
+
+:::::
+
+::::::
+
+
+
+:::::: {.teaching-section .teaching-section--advanced}
+
+::::: {.teaching-section-header}
+
+::: {.teaching-section-icon}
+<i class="bi bi-globe2"></i>
+:::
+
+::: {.teaching-section-heading}
+
+[ADVANCED TEACHING]{.teaching-section-kicker}
+
+## Doctoral and International Teaching {#advanced-teaching}
+
+Advanced courses and project-based teaching delivered in doctoral and international graduate programmes.
+
+:::
+
+[2 courses]{.teaching-section-count}
+
+:::::
+
+
+::::: {.teaching-grid}
+
+
+:::: {.teaching-card .teaching-card--foundation-models}
+
+::: {.teaching-card-top}
+
+::: {.teaching-card-icon}
+<i class="bi bi-database"></i>
+:::
+
+[2024]{.teaching-period}
+
+:::
+
+### Exploring the Frontier of Database Research
+
+[The Alliance with Foundation Models]{.teaching-card-subtitle}
+
+[Course Instructor]{.teaching-role .teaching-role--lead}
+
+[ICT Doctoral School]{.teaching-programme}
+
+::: {.teaching-metadata}
+
+[3 ECTS]{.teaching-meta-item}
+
+[12 hours]{.teaching-meta-item}
+
+[English]{.teaching-meta-item}
+
+:::
+
+[University of Modena and Reggio Emilia](https://www.unimore.it/){.teaching-institution target="_blank" rel="noopener"}
+
+Advanced module on the interaction between database research and foundation models, including data preparation, tabular models, in-context learning, and retrieval-augmented generation.
+
+::: {.teaching-actions}
+
+[<i class="bi bi-github"></i> Course materials](https://github.com/matteo-paganelli/db_llm_alliance){.teaching-action target="_blank" rel="noopener"}
+
+[<i class="bi bi-mortarboard"></i> ICT Doctorate](https://www.ict.unimore.it/){.teaching-action target="_blank" rel="noopener"}
+
+:::
+
+::::
+
+
+:::: {.teaching-card .teaching-card--schema-matching}
+
+::: {.teaching-card-top}
+
+::: {.teaching-card-icon}
+<i class="bi bi-diagram-3"></i>
+:::
+
+[2024]{.teaching-period}
+
+:::
+
+### Constraint-Based Schema Matching
+
+[Co-Instructor]{.teaching-role}
+
+[MSc in Data Engineering]{.teaching-programme}
+
+::: {.teaching-metadata}
+
+[12 ECTS]{.teaching-meta-item}
+
+[Project-based]{.teaching-meta-item}
+
+[English]{.teaching-meta-item}
+
+:::
+
+[Hasso Plattner Institute · University of Potsdam](https://hpi.de/){.teaching-institution target="_blank" rel="noopener"}
+
+Collaborative research project on schema matching through functional dependencies and other integrity constraints, including heterogeneous and privacy-sensitive scenarios.
+
+::: {.teaching-actions}
+
+[<i class="bi bi-journal-text"></i> Course page](https://hpi.de/database-group/teaching/master-projects/constraint-based-schema-matching/){.teaching-action target="_blank" rel="noopener"}
+
+[<i class="bi bi-file-earmark-slides"></i> Course introduction](https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/lehre/WS2023/Project_COSMA_Introduction.pdf){.teaching-action target="_blank" rel="noopener"}
+
+:::
+
+::::
+
+
+:::::
+
+::::::
+
+
+
+:::::: {.teaching-section .teaching-section--contributions}
+
+::::: {.teaching-section-header}
+
+::: {.teaching-section-icon}
+<i class="bi bi-person-video3"></i>
+:::
+
+::: {.teaching-section-heading}
+
+[TEACHING SUPPORT]{.teaching-section-kicker}
+
+## Teaching Contributions {#teaching-contributions}
+
+Teaching assistance and selected seminars within undergraduate and graduate Computer Engineering programmes.
+
+:::
+
+[2 courses]{.teaching-section-count}
+
+:::::
+
+
+::::: {.teaching-grid}
+
+
+:::: {.teaching-card .teaching-card--big-data}
+
+::: {.teaching-card-top}
+
+::: {.teaching-card-icon}
+<i class="bi bi-hdd-stack"></i>
+:::
+
+[2017–2020]{.teaching-period}
+
+:::
+
+### Big Data Analytics
+
+[Teaching Assistant]{.teaching-role}
+
+[MSc in Computer Engineering]{.teaching-programme}
+
+::: {.teaching-metadata}
+
+[9 ECTS course]{.teaching-meta-item}
+
+[Graduate]{.teaching-meta-item}
+
+:::
+
+[Enzo Ferrari Department of Engineering](https://www.ingmo.unimore.it/){.teaching-institution target="_blank" rel="noopener"}
+
+Teaching support and a selected seminar on neural architectures for natural-language processing.
+
+::: {.teaching-actions}
+
+[<i class="bi bi-mortarboard"></i> Degree programme](https://unimore.coursecatalogue.cineca.it/corsi/2026/10300?codicione=0360107303300001){.teaching-action target="_blank" rel="noopener"}
+
+:::
+
+::::
+
+
+:::: {.teaching-card .teaching-card--software}
+
+::: {.teaching-card-top}
+
+::: {.teaching-card-icon}
+<i class="bi bi-code-square"></i>
+:::
+
+[2017–2020]{.teaching-period}
+
+:::
+
+### Software Engineering
+
+[Teaching Assistant]{.teaching-role}
+
+[BSc in Computer Engineering]{.teaching-programme}
+
+::: {.teaching-metadata}
+
+[9 ECTS course]{.teaching-meta-item}
+
+[Undergraduate]{.teaching-meta-item}
+
+:::
+
+[Enzo Ferrari Department of Engineering](https://www.ingmo.unimore.it/){.teaching-institution target="_blank" rel="noopener"}
+
+Teaching support and a selected seminar on collaborative tools for software design and development.
+
+::: {.teaching-actions}
+
+[<i class="bi bi-mortarboard"></i> Degree programme](https://unimore.coursecatalogue.cineca.it/corsi/2026/10296?codicione=0360106200800002){.teaching-action target="_blank" rel="noopener"}
+
+:::
+
+::::
+
+
+:::::
+
+::::::

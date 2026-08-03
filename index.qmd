@@ -19,7 +19,7 @@ description: "Academic website of Matteo Paganelli, researcher in data managemen
 :::: {.profile-facts}
 
 **Department**
-: [Marco Biagi Department of Economics](https://www.economia.unimore.it/){target="_blank" rel="noopener"}
+: ["Marco Biagi" Department of Economics](https://www.economia.unimore.it/){target="_blank" rel="noopener"}
 
 **University**
 : [University of Modena and Reggio Emilia](https://www.unimore.it/){target="_blank" rel="noopener"}
@@ -28,7 +28,7 @@ description: "Academic website of Matteo Paganelli, researcher in data managemen
 : [DTALab](https://dtalab.unimore.it/){target="_blank" rel="noopener"}
 
 **Research base**
-: [Enzo Ferrari Department of Engineering](https://www.ingmo.unimore.it/){target="_blank" rel="noopener"}
+: ["Enzo Ferrari" Department of Engineering](https://www.ingmo.unimore.it/){target="_blank" rel="noopener"}
 
 **Academic field**
 : IINF-05/A — Information Processing Systems
@@ -68,11 +68,11 @@ description: "Academic website of Matteo Paganelli, researcher in data managemen
 
 # Academic Profile
 
-Matteo Paganelli is a **tenure-track researcher** at the [Marco Biagi Department of Economics](https://www.economia.unimore.it/){target="_blank" rel="noopener"}, [University of Modena and Reggio Emilia](https://www.unimore.it/){target="_blank" rel="noopener"}.
+Matteo Paganelli is a **tenure-track researcher** at the ["Marco Biagi" Department of Economics](https://www.economia.unimore.it/){target="_blank" rel="noopener"}, [University of Modena and Reggio Emilia](https://www.unimore.it/){target="_blank" rel="noopener"}.
 
-He conducts research within [**DTALab**](https://dtalab.unimore.it/){target="_blank" rel="noopener"}, a research group based at the [Enzo Ferrari Department of Engineering](https://www.ingmo.unimore.it/){target="_blank" rel="noopener"}. He previously carried out postdoctoral research at the Hasso Plattner Institute in Potsdam.
+He conducts research within [**DTALab**](https://dtalab.unimore.it/){target="_blank" rel="noopener"}, a research group based at the ["Enzo Ferrari" Department of Engineering](https://www.ingmo.unimore.it/){target="_blank" rel="noopener"}. He previously carried out postdoctoral research at the Hasso Plattner Institute in Potsdam.
 
-He received his Ph.D. in Information and Communication Technologies from the University of Modena and Reggio Emilia and holds the **Italian National Scientific Qualification for Associate Professor** in Information Processing Systems and Informatics.
+He received his Ph.D. in Information and Communication Technologies from the University of Modena and Reggio Emilia and holds the Italian National Scientific Qualification for Associate Professor in Information Processing Systems and Informatics.
 
 His research focuses on **data management and integration**, **language and tabular AI**, and **trustworthy AI**, including explainability and fact-checking.
 

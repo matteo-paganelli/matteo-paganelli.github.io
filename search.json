@@ -4,7 +4,28 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Courses and teaching activities at the University of Modena and Reggio Emilia and other institutions."
+    "text": "ACADEMIC TEACHING\nTeaching activities across undergraduate, graduate, and doctoral programmes, covering business intelligence, data science, database systems, data integration, and software engineering.\n\nCourse Leadership\nDoctoral & International\nTeaching Contributions"
+  },
+  {
+    "objectID": "teaching.html#course-leadership",
+    "href": "teaching.html#course-leadership",
+    "title": "Teaching",
+    "section": "Course Leadership",
+    "text": "Course Leadership\nCourses for which responsibility includes course design, teaching, assessment, and coordination."
+  },
+  {
+    "objectID": "teaching.html#advanced-teaching",
+    "href": "teaching.html#advanced-teaching",
+    "title": "Teaching",
+    "section": "Doctoral and International Teaching",
+    "text": "Doctoral and International Teaching\nAdvanced courses and project-based teaching delivered in doctoral and international graduate programmes."
+  },
+  {
+    "objectID": "teaching.html#teaching-contributions",
+    "href": "teaching.html#teaching-contributions",
+    "title": "Teaching",
+    "section": "Teaching Contributions",
+    "text": "Teaching Contributions\nTeaching assistance and selected seminars within undergraduate and graduate Computer Engineering programmes."
   },
   {
     "objectID": "research.html",
@@ -53,21 +74,21 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Information about national, regional, and European research projects."
+    "text": "PROJECT PORTFOLIO\nResearch activities conducted within European, national, and regional funded projects, together with applied research collaborations involving companies and public institutions.\n\nFunded Research Projects\nIndustry and Institutional Projects"
   },
   {
-    "objectID": "projects.html#funded-research-projects",
-    "href": "projects.html#funded-research-projects",
+    "objectID": "projects.html#funded-projects",
+    "href": "projects.html#funded-projects",
     "title": "Projects",
-    "section": "",
-    "text": "Information about national, regional, and European research projects."
+    "section": "Funded Research Projects",
+    "text": "Funded Research Projects\nCompetitive European, national, and regional projects addressing data management, artificial intelligence, cybersecurity, and sustainable production."
   },
   {
-    "objectID": "projects.html#applied-research-and-consultancy-projects",
-    "href": "projects.html#applied-research-and-consultancy-projects",
+    "objectID": "projects.html#applied-projects",
+    "href": "projects.html#applied-projects",
     "title": "Projects",
-    "section": "Applied Research and Consultancy Projects",
-    "text": "Applied Research and Consultancy Projects\nInformation about applied research collaborations with companies and public institutions."
+    "section": "Industry and Institutional Projects",
+    "text": "Industry and Institutional Projects\nResearch contracts and consultancy projects addressing concrete challenges in supply chains, credit risk, manufacturing, retail analytics, and public data management."
   },
   {
     "objectID": "cv.html",
@@ -88,7 +109,7 @@
     "href": "index.html",
     "title": "Academic Profile",
     "section": "",
-    "text": "MATTEO PAGANELLI\nTenure-Track Researcher\nData Management · Artificial Intelligence\n\n\nDepartment\n\nMarco Biagi Department of Economics\n\nUniversity\n\nUniversity of Modena and Reggio Emilia\n\nResearch group\n\nDTALab\n\nResearch base\n\nEnzo Ferrari Department of Engineering\n\nAcademic field\n\nIINF-05/A — Information Processing Systems\n\n\n\nACADEMIC PROFILES\n\n UNIMORE Profile\n ORCID\n Google Scholar\n Scopus\n DBLP\n GitHub\n LinkedIn\n Email\n\n\n\n\nABOUT\n\n\nMatteo Paganelli is a tenure-track researcher at the Marco Biagi Department of Economics, University of Modena and Reggio Emilia.\nHe conducts research within DTALab, a research group based at the Enzo Ferrari Department of Engineering. He previously carried out postdoctoral research at the Hasso Plattner Institute in Potsdam.\nHe received his Ph.D. in Information and Communication Technologies from the University of Modena and Reggio Emilia and holds the Italian National Scientific Qualification for Associate Professor in Information Processing Systems and Informatics.\nHis research focuses on data management and integration, language and tabular AI, and trustworthy AI, including explainability and fact-checking.\n\n\n\n\n\n\n01\n\n\nIntegration of heterogeneous information at the record, schema, and table levels.\nExplore this area\n\n\n\n02\n\n\nTransparent, interpretable, and actionable machine learning systems.\nExplore this area\n\n\n\n03\n\n\nLanguage models for understanding and reasoning over complex tables and documents.\nExplore this area\n\n\n\n04\n\n\nTranslation and execution of machine learning pipelines within relational databases.\nExplore this area"
+    "text": "MATTEO PAGANELLI\nTenure-Track Researcher\nData Management · Artificial Intelligence\n\n\nDepartment\n\n“Marco Biagi” Department of Economics\n\nUniversity\n\nUniversity of Modena and Reggio Emilia\n\nResearch group\n\nDTALab\n\nResearch base\n\n“Enzo Ferrari” Department of Engineering\n\nAcademic field\n\nIINF-05/A — Information Processing Systems\n\n\n\nACADEMIC PROFILES\n\n UNIMORE Profile\n ORCID\n Google Scholar\n Scopus\n DBLP\n GitHub\n LinkedIn\n Email\n\n\n\n\nABOUT\n\n\nMatteo Paganelli is a tenure-track researcher at the “Marco Biagi” Department of Economics, University of Modena and Reggio Emilia.\nHe conducts research within DTALab, a research group based at the “Enzo Ferrari” Department of Engineering. He previously carried out postdoctoral research at the Hasso Plattner Institute in Potsdam.\nHe received his Ph.D. in Information and Communication Technologies from the University of Modena and Reggio Emilia and holds the Italian National Scientific Qualification for Associate Professor in Information Processing Systems and Informatics.\nHis research focuses on data management and integration, language and tabular AI, and trustworthy AI, including explainability and fact-checking.\n\n\n\n\n\n\n01\n\n\nIntegration of heterogeneous information at the record, schema, and table levels.\nExplore this area\n\n\n\n02\n\n\nTransparent, interpretable, and actionable machine learning systems.\nExplore this area\n\n\n\n03\n\n\nLanguage models for understanding and reasoning over complex tables and documents.\nExplore this area\n\n\n\n04\n\n\nTranslation and execution of machine learning pipelines within relational databases.\nExplore this area"
   },
   {
     "objectID": "index.html#research-focus",
@@ -172,6 +193,27 @@
     "href": "service.html",
     "title": "Academic Service",
     "section": "",
-    "text": "Program committee memberships, reviewing activities, and academic awards."
+    "text": "ACADEMIC COMMUNITY\nAcademic service through peer review, program committee participation, and research dissemination across the data management, information retrieval, and natural language processing communities.\n\n\n\n\n\n2018\nReviewing activity since\n\n\n\n\n\n10\nConference presentations\n\n\n\n\n\n1\nDistinguished reviewer award\n\n\n\nReviewing and Committees\nAward\nConference Presentations"
+  },
+  {
+    "objectID": "service.html#reviewing-committees",
+    "href": "service.html#reviewing-committees",
+    "title": "Academic Service",
+    "section": "Reviewing and Program Committees",
+    "text": "Reviewing and Program Committees\nPeer-review and committee activities for international conferences, journals, and rolling-review initiatives."
+  },
+  {
+    "objectID": "service.html#distinguished-reviewer-award",
+    "href": "service.html#distinguished-reviewer-award",
+    "title": "Academic Service",
+    "section": "Distinguished Reviewer Award",
+    "text": "Distinguished Reviewer Award\nRecognized as a Distinguished Reviewer for ACM SIGMOD 2025 for the quality and contribution of the reviews provided during the conference evaluation process.\nACM SIGMOD · 2025"
+  },
+  {
+    "objectID": "service.html#conference-presentations",
+    "href": "service.html#conference-presentations",
+    "title": "Academic Service",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\nPresentation and discussion of peer-reviewed research at international conferences in data management, artificial intelligence, and natural language processing."
   }
 ]

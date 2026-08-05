@@ -287,7 +287,7 @@ Research contracts and consultancy projects addressing concrete challenges in su
 
 :::
 
-Development of a data integration pipeline to consolidate duplicate supplier records, classify heterogeneous product descriptions according to the **UNSPSC taxonomy**, and identify alternative sourcing opportunities.
+Development of a data integration pipeline to consolidate **duplicate supplier records**, classify heterogeneous product descriptions according to the UNSPSC taxonomy, and identify alternative sourcing opportunities.
 
 ::: {.compact-project-keywords}
 

@@ -37,13 +37,30 @@ Teaching activities across **undergraduate, graduate, and doctoral programmes**,
 
 ## Course Leadership {#course-leadership}
 
-Courses for which responsibility includes course design, teaching, assessment, and coordination.
+Current and previous courses involving course design, teaching, assessment, coordination, or co-teaching responsibilities.
 
 :::
 
-[3 courses]{.teaching-section-count}
+[3 current · 1 previous]{.teaching-section-count}
 
 :::::
+
+
+:::: {.teaching-subsection}
+
+::: {.teaching-subsection-header}
+
+::: {.teaching-subsection-title}
+
+[CURRENT TEACHING]{.teaching-subsection-kicker}
+
+### Current Courses
+
+:::
+
+[Present]{.teaching-subsection-period}
+
+:::
 
 
 ::::: {.teaching-grid}
@@ -57,7 +74,7 @@ Courses for which responsibility includes course design, teaching, assessment, a
 <i class="bi bi-bar-chart"></i>
 :::
 
-[2025–Present]{.teaching-period}
+[Present]{.teaching-period}
 
 :::
 
@@ -100,7 +117,7 @@ Introduction to the concepts, methods, and software tools used to transform raw 
 <i class="bi bi-people"></i>
 :::
 
-[2025–Present]{.teaching-period}
+[Present]{.teaching-period}
 
 :::
 
@@ -135,7 +152,75 @@ Design and use of information systems for human-resource management, together wi
 ::::
 
 
-:::: {.teaching-card .teaching-card--computer-literacy}
+:::: {.teaching-card .teaching-card--textual-tabular}
+
+::: {.teaching-card-top}
+
+::: {.teaching-card-icon}
+<i class="bi bi-table"></i>
+:::
+
+[Present]{.teaching-period}
+
+:::
+
+### Textual and Tabular Data Analytics
+
+[Co-Instructor · Practical Sessions]{.teaching-role .teaching-role--co}
+
+[MSc in Computer Engineering]{.teaching-programme}
+
+::: {.teaching-metadata}
+
+[9 ECTS course]{.teaching-meta-item}
+
+[3 ECTS contribution]{.teaching-meta-item}
+
+[Italian]{.teaching-meta-item}
+
+:::
+
+[Enzo Ferrari Department of Engineering](https://www.ingmo.unimore.it/){.teaching-institution target="_blank" rel="noopener"}
+
+Co-teaching contribution focused on the practical sessions of the course, covering methods and tools for the analysis of textual and tabular data.
+
+::: {.teaching-actions}
+
+[<i class="bi bi-journal-text"></i> Course page](https://unimore.coursecatalogue.cineca.it/corsi/2026/10975/insegnamenti/2026/30704/2026/1?annoOrdinamento=2026&coorte=2026){.teaching-action target="_blank" rel="noopener"}
+
+[<i class="bi bi-mortarboard"></i> Degree programme](https://unimore.coursecatalogue.cineca.it/corsi/2026/10975?annoOrdinamento=2026){.teaching-action target="_blank" rel="noopener"}
+
+:::
+
+::::
+
+
+:::::
+
+::::
+
+
+:::: {.teaching-subsection .teaching-subsection--previous}
+
+::: {.teaching-subsection-header}
+
+::: {.teaching-subsection-title}
+
+[PAST TEACHING]{.teaching-subsection-kicker}
+
+### Previous Courses
+
+:::
+
+[Completed]{.teaching-subsection-period}
+
+:::
+
+
+::::: {.teaching-grid .teaching-grid--previous}
+
+
+:::: {.teaching-card .teaching-card--computer-literacy .teaching-card--previous}
 
 ::: {.teaching-card-top}
 
@@ -147,7 +232,7 @@ Design and use of information systems for human-resource management, together wi
 
 :::
 
-### Computer Sciences — Basic Qualification
+### Computer Science — Basic Qualification
 
 [Course Instructor]{.teaching-role .teaching-role--lead}
 
@@ -179,6 +264,8 @@ Theoretical and practical introduction to spreadsheet-based data management and 
 
 
 :::::
+
+::::
 
 ::::::
 

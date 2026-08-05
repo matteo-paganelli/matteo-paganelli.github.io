@@ -2138,6 +2138,117 @@ a.compact-project-subtitle:hover {
   font-size: 0.8rem;
 }
 
+/* =========================================================
+   Current and previous teaching
+   ========================================================= */
+
+.teaching-subsection {
+  margin-top: 1.25rem;
+}
+
+.teaching-subsection + .teaching-subsection {
+  margin-top: 2rem;
+}
+
+.teaching-subsection-header {
+  display: flex;
+  margin-bottom: 0.85rem;
+  padding: 0 0.15rem 0.65rem;
+  border-bottom: 1px solid rgba(var(--teaching-section-accent), 0.15);
+  align-items: end;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.teaching-subsection-header > p {
+  display: contents;
+}
+
+.teaching-subsection-title {
+  min-width: 0;
+}
+
+.teaching-subsection-title > p {
+  margin: 0;
+}
+
+.teaching-subsection-kicker {
+  display: block;
+  margin-bottom: 0.12rem;
+  color: rgb(var(--teaching-section-accent));
+  font-size: 0.61rem;
+  font-weight: 750;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+}
+
+.teaching-subsection-title h3 {
+  margin: 0 !important;
+  font-size: 1.05rem !important;
+  font-weight: 680;
+}
+
+.teaching-subsection-period {
+  color: var(--bs-secondary-color);
+  font-size: 0.67rem;
+  font-weight: 650;
+  white-space: nowrap;
+}
+
+
+/* Previous courses are visually quieter */
+
+.teaching-subsection--previous {
+  --teaching-section-accent: 105, 112, 122;
+}
+
+.teaching-grid--previous {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.teaching-card--previous {
+  background:
+    linear-gradient(
+      145deg,
+      rgba(105, 112, 122, 0.045),
+      var(--bs-body-bg) 48%
+    );
+  box-shadow:
+    0 5px 17px rgba(25, 35, 50, 0.035),
+    0 1px 3px rgba(25, 35, 50, 0.02);
+}
+
+
+/* Textual and Tabular Data Analytics */
+
+.teaching-card--textual-tabular {
+  --teaching-accent: 46, 117, 137;
+}
+
+.teaching-role--co {
+  border-color: rgba(var(--teaching-accent), 0.18);
+  background: rgba(var(--teaching-accent), 0.085);
+  color: rgb(var(--teaching-accent));
+}
+
+
+@media (max-width: 800px) {
+  .teaching-grid--previous {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .teaching-subsection-header {
+    display: block;
+  }
+
+  .teaching-subsection-period {
+    display: block;
+    margin-top: 0.25rem;
+  }
+}
+
 
 /* =========================================================
    Responsive teaching layout

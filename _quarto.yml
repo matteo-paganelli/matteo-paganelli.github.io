@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - googleae307a233118a545.html
 
 website:
   title: "Matteo Paganelli"

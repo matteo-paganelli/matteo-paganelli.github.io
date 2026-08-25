@@ -6,7 +6,7 @@ project:
 website:
   title: "Matteo Paganelli"
   site-url: "https://matteo-paganelli.github.io"
-  favicon: images/mp_favicon.svg
+  favicon: images/mp_favicon.png
   search: true
   navbar:
     left:
